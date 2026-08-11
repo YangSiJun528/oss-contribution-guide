@@ -1,0 +1,12 @@
+[book]
+title = "OSS 기여 시작 가이드"
+language = "ko"
+src = "src"
+
+[build]
+build-dir = "book"
+
+[output.html]
+site-url = "/oss-contribution-guide/"
+git-repository-url = "https://github.com/YangSiJun528/oss-contribution-guide"
+edit-url-template = "https://github.com/YangSiJun528/oss-contribution-guide/edit/main/{path}"
