@@ -1,58 +1,45 @@
 # Summary
 
-- [OSS 기여 시작 가이드](README.md)
+[OSS 기여 시작 가이드](README.md)
 
-# 1. 프로젝트 목표 소개
-
-- [이 가이드가 다루는 것](01-introduction/what-this-guide-covers.md)
-- [기여를 시작하기 전에](01-introduction/before-you-contribute.md)
-- [저자와 이 글의 관점](01-introduction/author-and-perspective.md)
-- [이 가이드를 읽는 방법](01-introduction/how-to-read-this-guide.md)
-
-# 2. OSS 개요
-
-- [OSS와 FOSS](02-oss-overview/oss-and-foss.md)
-- [라이선스](02-oss-overview/licenses.md)
-- [프로젝트를 구성하는 사람과 조직](02-oss-overview/people-and-organizations.md)
-- [프로젝트가 관리되고 소통하는 방식](02-oss-overview/project-management-and-communication.md)
-- [프로젝트마다 문화가 다르다](02-oss-overview/project-culture.md)
-
-# 3. 기여자의 기본 태도
-
-- [기여는 프로젝트에 보내는 제안이다](03-contributor-attitude/01-contribution-is-a-proposal.md)
-- [기여에는 검토와 유지보수 비용이 따른다](03-contributor-attitude/02-review-and-maintenance-costs.md)
-- [관계 형성으로서의 기여](03-contributor-attitude/03-contribution-as-relationship-building.md)
-- [프로젝트의 방식과 문화를 존중한다](03-contributor-attitude/04-respect-project-practices-and-culture.md)
-- [AI를 사용해도 책임은 기여자에게 있다](03-contributor-attitude/05-contributor-responsibility-with-ai.md)
-
-# 4. 기여하는 과정
-
-- [기여할 프로젝트 찾기](04-contribution-process/01-find-a-project.md)
-- [프로젝트의 기여 방식 파악하기](04-contribution-process/02-understand-contribution-process.md)
-- [작업 찾기 또는 물어보기](04-contribution-process/03-find-or-ask-for-work.md)
-- [문제 이해하기](04-contribution-process/04-understand-the-problem.md)
-- [구현하고 검증하기](04-contribution-process/05-implement-and-verify.md)
-- [제출 전에 검토하기](04-contribution-process/06-review-before-submission.md)
-- [커밋과 PR 작성하기](04-contribution-process/07-write-commits-and-pull-request.md)
-- [리뷰에서 대화하기](04-contribution-process/08-communicate-during-review.md)
-
-# 5. AI와 OSS 기여
-
-- [AI가 바꾼 것](05-ai-and-oss/what-ai-changed.md)
-- [프로젝트마다 AI 정책이 다르다](05-ai-and-oss/project-ai-policies.md)
-- [문제가 되는 AI 기여](05-ai-and-oss/problematic-ai-contributions.md)
-- [생산적인 AI 활용](05-ai-and-oss/productive-ai-use.md)
-- [AI 사용 시 책임](05-ai-and-oss/responsibility-when-using-ai.md)
-
-# 6. 첫 기여 이후
-
-- [제출한 PR의 결과 받아들이기](06-after-first-contribution/accept-pr-outcomes.md)
-- [다음 참여 방식 선택하기](06-after-first-contribution/choose-next-participation.md)
-- [기여 경험 정리하기](06-after-first-contribution/record-contribution-experience.md)
-
-# 7. 부록
-
-- [기부하고 인증하는 방법](07-appendix/donation-and-verification.md)
-- [이 가이드 개선하기](07-appendix/improve-this-guide.md)
-- [추천 자료 모음](07-appendix/recommended-resources.md)
-- [라이선스와 제3자 자료](07-appendix/licenses-and-third-party-materials.md)
+- [프로젝트 목표 소개]()
+  - [이 가이드가 다루는 것](01-introduction/what-this-guide-covers.md)
+  - [기여를 시작하기 전에](01-introduction/before-you-contribute.md)
+  - [저자와 이 글의 관점](01-introduction/author-and-perspective.md)
+  - [이 가이드를 읽는 방법](01-introduction/how-to-read-this-guide.md)
+- [OSS 개요]()
+  - [OSS와 FOSS](02-oss-overview/oss-and-foss.md)
+  - [라이선스](02-oss-overview/licenses.md)
+  - [프로젝트를 구성하는 사람과 조직](02-oss-overview/people-and-organizations.md)
+  - [프로젝트가 관리되고 소통하는 방식](02-oss-overview/project-management-and-communication.md)
+  - [프로젝트마다 문화가 다르다](02-oss-overview/project-culture.md)
+- [기여자의 기본 태도]()
+  - [기여는 프로젝트에 보내는 제안이다](03-contributor-attitude/01-contribution-is-a-proposal.md)
+  - [기여에는 검토와 유지보수 비용이 따른다](03-contributor-attitude/02-review-and-maintenance-costs.md)
+  - [관계 형성으로서의 기여](03-contributor-attitude/03-contribution-as-relationship-building.md)
+  - [프로젝트의 방식과 문화를 존중한다](03-contributor-attitude/04-respect-project-practices-and-culture.md)
+  - [AI를 사용해도 책임은 기여자에게 있다](03-contributor-attitude/05-contributor-responsibility-with-ai.md)
+- [기여하는 과정]()
+  - [기여할 프로젝트 찾기](04-contribution-process/01-find-a-project.md)
+  - [프로젝트의 기여 방식 파악하기](04-contribution-process/02-understand-contribution-process.md)
+  - [작업 찾기 또는 물어보기](04-contribution-process/03-find-or-ask-for-work.md)
+  - [문제 이해하기](04-contribution-process/04-understand-the-problem.md)
+  - [구현하고 검증하기](04-contribution-process/05-implement-and-verify.md)
+  - [제출 전에 검토하기](04-contribution-process/06-review-before-submission.md)
+  - [커밋과 PR 작성하기](04-contribution-process/07-write-commits-and-pull-request.md)
+  - [리뷰에서 대화하기](04-contribution-process/08-communicate-during-review.md)
+- [AI와 OSS 기여]()
+  - [AI가 바꾼 것](05-ai-and-oss/what-ai-changed.md)
+  - [프로젝트마다 AI 정책이 다르다](05-ai-and-oss/project-ai-policies.md)
+  - [문제가 되는 AI 기여](05-ai-and-oss/problematic-ai-contributions.md)
+  - [생산적인 AI 활용](05-ai-and-oss/productive-ai-use.md)
+  - [AI 사용 시 책임](05-ai-and-oss/responsibility-when-using-ai.md)
+- [첫 기여 이후]()
+  - [제출한 PR의 결과 받아들이기](06-after-first-contribution/accept-pr-outcomes.md)
+  - [다음 참여 방식 선택하기](06-after-first-contribution/choose-next-participation.md)
+  - [기여 경험 정리하기](06-after-first-contribution/record-contribution-experience.md)
+- [부록]()
+  - [기부하고 인증하는 방법](07-appendix/donation-and-verification.md)
+  - [이 가이드 개선하기](07-appendix/improve-this-guide.md)
+  - [추천 자료 모음](07-appendix/recommended-resources.md)
+  - [라이선스와 제3자 자료](07-appendix/licenses-and-third-party-materials.md)
