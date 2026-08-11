@@ -40,6 +40,7 @@
   - [기여 경험 정리하기](06-after-first-contribution/record-contribution-experience.md)
 - [부록](07-appendix/index.md)
   - [기부하고 인증하는 방법](07-appendix/donation-and-verification.md)
+  - [OSS와 AI 사례 노트](07-appendix/oss-ai-case-notes.md)
   - [이 가이드 개선하기](07-appendix/improve-this-guide.md)
   - [추천 자료 모음](07-appendix/recommended-resources.md)
   - [라이선스와 제3자 자료](07-appendix/licenses-and-third-party-materials.md)
