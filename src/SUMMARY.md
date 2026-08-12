@@ -3,7 +3,7 @@
 [OSS 기여 시작 가이드](README.md)
 
 - [프로젝트 목표 소개](01-introduction/index.md)
-  - [이 가이드가 다루는 것](01-introduction/what-this-guide-covers.md)
+  - [이 가이드의 대상과 목표](01-introduction/what-this-guide-covers.md)
   - [기여를 시작하기 전에](01-introduction/before-you-contribute.md)
   - [저자와 이 글의 관점](01-introduction/author-and-perspective.md)
 - [OSS 개요](02-oss-overview/index.md)
