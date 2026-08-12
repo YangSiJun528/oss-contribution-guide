@@ -22,7 +22,7 @@
 - [첫 기여 이후](06-after-first-contribution/index.md)
   - [기여 경험 정리하기](06-after-first-contribution/record-contribution-experience.md)
 - [부록](07-appendix/index.md)
-  - [오픈소스에 기부하는 방법](07-appendix/donation-and-verification.md)
+  - [OSS 프로젝트와 단체 후원하기](07-appendix/donation-and-verification.md)
   - [OSS와 AI 사례 노트](07-appendix/oss-ai-case-notes.md)
   - [추천 자료 모음](07-appendix/recommended-resources.md)
   - [라이선스](07-appendix/licenses.md)
