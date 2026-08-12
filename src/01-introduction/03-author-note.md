@@ -4,9 +4,8 @@
 
 ## 저자 소개
 
-저는 [GitHub에서 YangSiJun528](https://github.com/YangSiJun528)로 활동하고 있고, 취미로 가끔 OSS에 참여합니다.
-
-공개된 활동은 [GitHub에서 작성한 Pull Request 목록](https://github.com/search?q=author%3AYangSiJun528+is%3Apr&type=pullrequests)에서 볼 수 있습니다.
+저는 [GitHub에서 YangSiJun528](https://github.com/YangSiJun528)로 활동하고 있고, 간간히 오픈소스 활동을 하고 있습니다.  
+오픈소스 기여 내역은 [my-oss-contributions](https://github.com/YangSiJun528/my-oss-contributions)에서 확인할 수 있어요.
 
 제가 OSS에 참여하는 이유는 대략 이렇습니다.
 
