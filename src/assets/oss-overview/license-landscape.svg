@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="610" viewBox="0 0 1200 610" role="img">
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#64748b"/>
+    </marker>
+    <style>
+      .title { font: 700 30px system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans KR", sans-serif; fill: #0f172a; }
+      .heading { font: 700 22px system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans KR", sans-serif; fill: #0f172a; }
+      .body { font: 500 18px system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans KR", sans-serif; fill: #334155; }
+      .small { font: 500 16px system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans KR", sans-serif; fill: #475569; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="610" rx="24" fill="#f8fafc"/>
+  <text x="54" y="58" class="title">소프트웨어 라이선스의 큰 범위</text>
+
+  <rect x="54" y="92" width="780" height="454" rx="20" fill="#ecfdf5" stroke="#10b981" stroke-width="3"/>
+  <text x="84" y="134" class="heading">OSI 정의를 따르는 OSS 라이선스</text>
+
+  <rect x="84" y="168" width="224" height="142" rx="16" fill="#ffffff" stroke="#34d399" stroke-width="2"/>
+  <text x="106" y="204" class="heading">허용적</text>
+  <text x="106" y="238" class="body">MIT · BSD · ISC</text>
+  <text x="106" y="270" class="body">Apache-2.0</text>
+
+  <rect x="340" y="168" width="464" height="330" rx="16" fill="#ffffff" stroke="#34d399" stroke-width="2"/>
+  <text x="368" y="204" class="heading">카피레프트</text>
+
+  <rect x="370" y="230" width="404" height="70" rx="12" fill="#f0fdf4" stroke="#86efac"/>
+  <text x="392" y="260" class="body">파일·라이브러리 등 제한된 범위</text>
+  <text x="392" y="286" class="small">MPL · LGPL · EPL · CDDL</text>
+
+  <rect x="370" y="320" width="404" height="70" rx="12" fill="#f0fdf4" stroke="#86efac"/>
+  <text x="392" y="350" class="body">파생 저작물의 배포</text>
+  <text x="392" y="376" class="small">GPL</text>
+
+  <rect x="370" y="410" width="404" height="70" rx="12" fill="#f0fdf4" stroke="#86efac"/>
+  <text x="392" y="440" class="body">네트워크 서비스 제공까지 고려</text>
+  <text x="392" y="466" class="small">AGPL</text>
+
+  <line x1="308" y1="239" x2="334" y2="239" stroke="#64748b" stroke-width="2" marker-end="url(#arrow)"/>
+  <text x="84" y="520" class="small">모두 사용·수정·공유의 자유를 보장하지만 조건과 적용 범위는 서로 다릅니다.</text>
+
+  <rect x="872" y="92" width="274" height="454" rx="20" fill="#fff7ed" stroke="#f97316" stroke-width="3" stroke-dasharray="10 8"/>
+  <text x="900" y="134" class="heading">OSS 밖의 범위</text>
+  <text x="900" y="174" class="body">OSI 미승인</text>
+  <text x="900" y="204" class="body">소스 공개형 라이선스</text>
+
+  <rect x="900" y="236" width="218" height="138" rx="14" fill="#ffffff" stroke="#fdba74"/>
+  <text x="920" y="270" class="body">BSL · SSPL · ELv2</text>
+  <text x="920" y="304" class="small">용도·서비스 제공 등에</text>
+  <text x="920" y="330" class="small">별도 제한이 있을 수 있음</text>
+
+  <text x="900" y="420" class="small">소스를 볼 수 있다는</text>
+  <text x="900" y="448" class="small">이유만으로 OSS가 되지는</text>
+  <text x="900" y="476" class="small">않습니다.</text>
+
+  <text x="54" y="582" class="small">이 그림은 개념을 단순화한 것입니다. 실제 판단은 적용되는 라이선스 원문과 프로젝트 정책을 확인합니다.</text>
+</svg>
