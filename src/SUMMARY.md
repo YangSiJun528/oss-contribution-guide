@@ -5,7 +5,7 @@
 - [프로젝트 목표 소개](01-introduction/00-index.md)
   - [이 가이드의 대상과 목표](01-introduction/01-what-this-guide-covers.md)
   - [기여를 시작하기 전에](01-introduction/02-before-you-contribute.md)
-  - [저자와 이 글의 관점](01-introduction/03-author-and-perspective.md)
+  - [저자의 글](01-introduction/03-author-note.md)
 - [OSS 개요](02-oss-overview/00-index.md)
   - [OSS와 FOSS](02-oss-overview/01-oss-and-foss.md)
   - [라이선스](02-oss-overview/02-licenses.md)
