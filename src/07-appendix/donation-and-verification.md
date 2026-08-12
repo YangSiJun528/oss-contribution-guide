@@ -1,16 +1,39 @@
 > 아직 작성 중입니다.
 
-# 기부하고 인증하는 방법
+# 오픈소스에 기부하는 방법
 
-- 프로젝트 공식 기부처가 있다면 우선
-- 기부처가 없거나 기업 프로젝트일 때 추천할 FOSS 단체
+오픈소스 기여 모임에 참여하는 경우, 소정의 참가비를 자신이 원하는 오픈소스 프로젝트나 단체에 기부하는 것을 원칙으로 합니다.
+
+기부 단체를 선택하는 방법과 모임에 인증하는 방법을 소개합니다.
+
+## 기부 단체 선택하기
+
+자율이지만 기본적으로 다음 순서로 살펴보기를 권장합니다.
+
+1. 자신이 기여한 프로젝트가 기업 등에 소속되지 않고 별도의 후원도 받지 않는 비영리 프로젝트이며 후원이 필요하다면, 해당 프로젝트를 우선합니다.
+2. 기여한 프로젝트가 1번에 해당하지 않으면, 평소 사용하거나 관심 있는 오픈소스 중 후원이 필요한 곳을 찾습니다.
+3. 위 조건에 모두 해당하지 않으면, 국내 오픈소스 단체인 [FOSS for All](https://fossforall.org/about/join/)을 추천합니다.
+   - 후원 시 아래 주의사항 참고
+
+### 기부를 받는 프로젝트인지 확인하는 방법
+
+1. GitHub 저장소에 Sponsor 버튼이나 후원 링크가 있는지 확인
+2. README에서 Sponsor, Funding, Donate 등의 키워드로 검색
+
+GitHub Sponsors, Open Source Collective, 커피 후원 서비스, Software Freedom Conservancy 등을 통해 후원할 수 있습니다.
+
+<!-- TODO: 후원 서비스 예시 보완 -->
+
+## 기부 인증하기
+
 - 금액과 결제 기준
-- 결제 전후 인증
+- 결제 전후 화면 캡처
 - 인증 이미지에서 개인정보 가리기
-- 기부는 일반적인 OSS 기여 조건이 아니라 모임 참가 규칙임을 명시
 
-## 기부처 찾기
+인증은 모임을 진행하는 디스코드의 후원 채널에서 진행해 주세요.
 
-- [GitHub Sponsors 소개](https://docs.github.com/ko/sponsors/getting-started-with-github-sponsors/about-github-sponsors): 프로젝트나 기여자가 GitHub Sponsors를 운영하는지 확인
-- [Software Freedom Conservancy](https://sfconservancy.org/): 비영리 단체가 지원하는 FOSS 프로젝트 확인
-- [Open Source Collective의 프로젝트 후원 안내](https://docs.oscollective.org/for-donors-companies-organizations-and-individuals/supporting-projects): Open Collective를 통한 프로젝트 후원 방법
+## FOSS for All 기부 시 주의사항
+
+현재 "도네이션박스" 서비스를 사용하고 있습니다. 결제 내역을 다시 확인할 수 있지만, 결제에 사용한 카드나 결제 방식을 기억해야 합니다.
+
+가능하면 결제 전후 화면을 캡처해 두세요.
