@@ -1,6 +1,8 @@
 <!-- 외부 링크는 이 파일에서 관리합니다. 링크를 사용하는 문서의 마지막에서 이 파일을 include합니다. -->
 
 [anthropic-ai-code-migration]: https://claude.com/blog/ai-code-migration
+[apache-how-it-works]: https://www.apache.org/foundation/how-it-works/
+[aosp-submit-code-changes]: https://source.android.com/docs/setup/contribute/submit-patches
 [author-github]: https://github.com/YangSiJun528
 [author-pull-requests]: https://github.com/search?q=author%3AYangSiJun528+is%3Apr&type=pullrequests
 [bun-zig-to-rust-pr]: https://github.com/oven-sh/bun/pull/30412
@@ -24,7 +26,10 @@
 [hwplibsharp-ai-porting]: https://devwrite.ai/ko/posts/hwplibsharp-upstream-management/
 [ko-fi-fees]: https://help.ko-fi.com/hc/en-us/articles/360002506494-Does-Ko-fi-take-a-fee
 [ko-fi-overview]: https://help.ko-fi.com/hc/en-us/articles/115003980093-How-do-I-get-paid
+[kubernetes-roles-and-responsibilities]: https://kubernetes.io/docs/contribute/participate/roles-and-responsibilities/
+[linux-kernel-submitting-patches]: https://www.kernel.org/doc/html/latest/process/submitting-patches.html
 [medium-open-source-contributors]: https://medium.com/opensource-contributors
+[mozilla-mpl-faq]: https://www.mozilla.org/en-US/MPL/2.0/FAQ/
 [naver-open-source-guide]: https://naver.github.io/OpenSourceGuide/book/
 [omc-star-api-issue]: https://github.com/Yeachan-Heo/oh-my-claudecode/issues/82
 [open-collective-fiscal-hosts]: https://documentation.opencollective.com/fiscal-hosts/fiscal-hosts
@@ -37,6 +42,7 @@
 [open-source-guide-project-anatomy]: https://opensource.guide/ko/how-to-contribute/#오픈소스-프로젝트의-해부학
 [open-weights-not-open-source]: https://point.free/blog/open-weights-not-open-source/
 [osi-open-source-ai-definition]: https://opensource.org/ai/open-source-ai-definition
+[osi-approved-licenses]: https://opensource.org/licenses
 [osi-open-source-definition]: https://opensource.org/osd
 [parksb-open-source-guide]: https://parksb.github.io/article/13.html
 [producing-open-source-software]: https://producingoss.com/
