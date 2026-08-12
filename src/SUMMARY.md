@@ -25,4 +25,4 @@
   - [기부하고 인증하는 방법](07-appendix/donation-and-verification.md)
   - [OSS와 AI 사례 노트](07-appendix/oss-ai-case-notes.md)
   - [추천 자료 모음](07-appendix/recommended-resources.md)
-  - [라이선스와 제3자 자료](07-appendix/licenses-and-third-party-materials.md)
+  - [라이선스](07-appendix/licenses.md)
