@@ -69,7 +69,7 @@
 - [오픈소스에 기여하는 방법](https://opensource.guide/ko/how-to-contribute/): 역할, 프로젝트 선택, 의사소통, Issue·PR, 제출 후 결과까지 한 번에 다룬다. 2~6장의 일반론을 가장 많이 넘길 수 있다.
 - [네이버 오픈소스 가이드](https://naver.github.io/OpenSourceGuide/book/): 한국어로 OSS 개념, 라이선스, 기여 절차를 폭넓게 설명한다. 오래된 GitHub 화면이나 절차는 최신 공식 문서와 함께 확인한다.
 - [Producing Open Source Software](https://producingoss.com/): 프로젝트 운영, 의사소통, 거버넌스를 더 깊게 보고 싶은 독자용 무료 영문 도서다.
-- [오픈 소스로 미래를 연마하라](https://www.yes24.com/product/goods/80093196): 기여 생태계와 참여 과정을 길게 보고 싶은 독자에게 보낸다. 2019년 책이므로 AI 정책은 별도 자료를 봐야 한다.
+- 『오픈 소스로 미래를 연마하라』(VM 브라수어): 기여 생태계와 참여 과정을 길게 보고 싶은 독자에게 소개한다. 공개 링크는 넣지 않으며, 2019년 책이므로 AI 정책은 별도 자료를 봐야 한다.
 
 ### GitHub 작업
 
@@ -82,7 +82,7 @@
 
 AI 정책은 프로젝트마다 크게 다르다는 점을 보여 주는 사례로만 사용한다. 이 목록에서 보편 규칙을 도출하지 않는다.
 
-- [Nobody's job, everybody's problem: F/OSS in the age of AI](https://x.com/hongminhee/status/2054530143574770128?s=20): 유지보수 문제를 기여자 신뢰와 리뷰 용량 문제로 나누고, AI 정책이 어떤 문제를 해결하려는지 구분하는 강의 자료다.
+- [Nobody's job, everybody's problem: F/OSS in the age of AI](https://hongminhee.codeberg.page/foss-kaist-cs350/): 유지보수 문제를 기여자 신뢰와 리뷰 용량 문제로 나누고, AI 정책이 어떤 문제를 해결하려는지 구분하는 강의 자료다.
 - [Rust LLM 사용 정책](https://forge.rust-lang.org/policies/llm-usage.html): 허용 범위와 책임을 세분화한 정책 사례다.
 - [Zig의 strict no-LLM 정책](https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy): 생성, 편집, 번역, 브레인스토밍 등을 폭넓게 금지하는 사례다.
 - [Servo의 AI contribution 안내](https://book.servo.org/contributing/getting-started.html#ai-contributions): 제출물 생성은 금지하지만 코드 탐색과 직접 검증한 버그 발견 등은 구분하는 사례다.
@@ -92,7 +92,7 @@ AI 정책은 프로젝트마다 크게 다르다는 점을 보여 주는 사례�
 
 ### 기여와 유지보수 책임
 
-- [Richard Hipp의 공짜 강아지 비유](https://x.com/ruanyf/status/2070309433813676248?s=20): PR은 코드만 받는 일이 아니라 검토, 테스트, 문서와 장기 유지보수 책임을 함께 인수하는 일이라는 설명이다.
+- [Richard Hipp의 공짜 강아지 비유](https://www.youtube.com/watch?v=lSVgeMoXJTs&t=1733s): PR은 코드만 받는 일이 아니라 검토, 테스트, 문서와 장기 유지보수 책임을 함께 인수하는 일이라는 설명이다.
 
 ## 공개 자료에 넣지 않을 것
 

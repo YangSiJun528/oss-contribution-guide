@@ -28,6 +28,6 @@ OSS 기여를 시작하는 동기에 정답은 없습니다.
 OSS 기여 전반에 대해 더 알고 싶다면 다음 자료를 참고할 수 있습니다. 비교적 오래된 자료라 AI로 인한 최근 환경의 변화는 포함하지 않지만, 참여의 기본 원칙과 태도를 이해하기에는 여전히 유용합니다. AI와 OSS 기여는 이 가이드의 별도 장에서 다룹니다.
 
 * [Open Source Guides - 오픈소스에 기여하는 방법][open-source-guide]
-* [책 - 오픈 소스로 미래를 연마하라][yes24-forge-your-future-with-open-source]
+* 『오픈 소스로 미래를 연마하라』(VM 브라수어)
 
 {{#include ../_includes/references.md}}
