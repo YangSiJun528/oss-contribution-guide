@@ -23,26 +23,26 @@ OSS 활동 후기를 찾아보면 눈에 띄는 성과를 낸 사람들의 이�
 가장 좋았던 점은 제가 만든 변경이 실제 릴리스에 들어가고 사용되는 모습을 볼 수 있다는 것입니다.
 
 <figure>
-  <a href="https://github.com/spring-projects/spring-boot/releases/tag/v3.5.0-M1"><img src="spring-boot-3.5.0-m1-contributors.png" alt="Spring Boot 3.5.0-M1 릴리스 기여자 목록에 표시된 YangSiJun528 계정" width="607" loading="lazy"></a>
+  <a href="https://github.com/spring-projects/spring-boot/releases/tag/v3.5.0-M1"><img src="spring-boot-3.5.0-m1-contributors.png" width="607" loading="lazy"></a>
   <figcaption><a href="https://github.com/spring-projects/spring-boot/releases/tag/v3.5.0-M1">Spring Boot 3.5.0-M1 릴리스</a>의 기여자 목록입니다.</figcaption>
 </figure>
 
 제가 따로 알리지 않았는데도 다른 사람이 제가 기여한 기능을 이야기하는 모습을 본 적도 있습니다.
 
 <figure>
-  <a href="https://github.com/spring-io/initializr/pull/1576"><img src="../assets/author-note/community-discussion-highlighted.png" alt="Kotlin JPA의 all-open 설정에 관한 대화 중 오후 5시 6분 메시지가 강조된 화면" width="420" loading="lazy"></a>
+  <a href="https://github.com/spring-io/initializr/pull/1576"><img src="../assets/author-note/community-discussion-highlighted.png" width="420" loading="lazy"></a>
   <figcaption>맨 아래 5:06 메시지는 제가 추가한 기능에 관한 이야기입니다. 작업 내용은 <a href="https://github.com/spring-io/initializr/pull/1576">Spring Initializr PR #1576</a>에서 볼 수 있습니다. 참여자의 이름과 프로필 사진은 가렸습니다.</figcaption>
 </figure>
 
 여러 프로젝트에 기여하다 보니 기여 이력을 보고 연락이 오기도 했습니다. 제 경우 아직 실제 기회로 이어진 적은 없지만, 누군가에게는 협업이나 다른 기회의 계기가 될 수도 있습니다.
 
 <figure>
-  <img src="../assets/author-note/oss-credit-promotion-email-redacted.png" alt="OSS 기여자를 대상으로 보낸 서비스 크레딧 제공 메일" width="900" loading="lazy">
+  <img src="../assets/author-note/oss-credit-promotion-email-redacted.png" width="900" loading="lazy">
   <figcaption>OSS 기여자를 대상으로 보낸 서비스 크레딧 제공 메일입니다.</figcaption>
 </figure>
 
 <figure>
-  <img src="../assets/author-note/product-beta-outreach-email-redacted.png" alt="공개된 개발 활동을 보고 보내온 베타 프로그램 참여 제안 메일" width="900" loading="lazy">
+  <img src="../assets/author-note/product-beta-outreach-email-redacted.png" width="900" loading="lazy">
   <figcaption>공개된 개발 활동을 보고 보내온 베타 프로그램 참여 제안입니다.</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ OSS 활동 후기를 찾아보면 눈에 띄는 성과를 낸 사람들의 이�
 공개 활동이 늘면서 원치 않는 홍보나 스팸성 연락이 오기도 했습니다.
 
 <figure>
-  <img src="../assets/author-note/research-collaboration-email-redacted.png" alt="공개된 기여 이력을 언급하며 보낸 스팸성 협업 제안 메일" width="900" loading="lazy">
+  <img src="../assets/author-note/research-collaboration-email-redacted.png" width="900" loading="lazy">
   <figcaption>제가 스팸성 연락이라고 판단한 메일입니다. 비슷한 사례는 <a href="https://www.linkedin.com/posts/homin-lee-71311838_designing-incentives-in-decentralized-systems-activity-7473485116229726208-pADD">LinkedIn 게시물</a>에서도 볼 수 있습니다.</figcaption>
 </figure>
 
