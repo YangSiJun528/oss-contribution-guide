@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="530" viewBox="0 0 1200 530" role="img">
+  <defs>
+    <style>
+      .title { font: 700 30px system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans KR", sans-serif; fill: #0f172a; }
+      .group { font: 700 23px system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans KR", sans-serif; fill: #0f172a; }
+      .heading { font: 700 20px system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans KR", sans-serif; fill: #0f172a; }
+      .body { font: 500 17px system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans KR", sans-serif; fill: #334155; }
+      .note { font: 500 16px system-ui, -apple-system, BlinkMacSystemFont, "Noto Sans KR", sans-serif; fill: #475569; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="530" rx="24" fill="#f8fafc"/>
+  <text x="54" y="58" class="title">OSS를 판단하는 일과 프로젝트 참여를 판단하는 일</text>
+
+  <rect x="54" y="96" width="434" height="338" rx="20" fill="#ecfdf5" stroke="#10b981" stroke-width="3"/>
+  <text x="82" y="138" class="group">소프트웨어가 OSS인가?</text>
+
+  <rect x="82" y="172" width="176" height="202" rx="16" fill="#ffffff" stroke="#6ee7b7" stroke-width="2"/>
+  <text x="106" y="210" class="heading">코드</text>
+  <text x="106" y="246" class="body">무엇을 만들고</text>
+  <text x="106" y="274" class="body">어떻게 동작하는가</text>
+  <text x="106" y="320" class="note">공개 여부만으로는</text>
+  <text x="106" y="346" class="note">OSS가 결정되지 않음</text>
+
+  <rect x="280" y="172" width="180" height="202" rx="16" fill="#ffffff" stroke="#6ee7b7" stroke-width="2"/>
+  <text x="304" y="210" class="heading">라이선스</text>
+  <text x="304" y="246" class="body">사용·수정·배포할</text>
+  <text x="304" y="274" class="body">권리를 보장하는가</text>
+  <text x="304" y="320" class="note">OSS 여부를 판단하는</text>
+  <text x="304" y="346" class="note">핵심 기준</text>
+
+  <rect x="526" y="96" width="620" height="338" rx="20" fill="#eff6ff" stroke="#3b82f6" stroke-width="3"/>
+  <text x="554" y="138" class="group">이 프로젝트에 어떻게 참여하는가?</text>
+
+  <rect x="554" y="172" width="170" height="202" rx="16" fill="#ffffff" stroke="#93c5fd" stroke-width="2"/>
+  <text x="578" y="210" class="heading">거버넌스</text>
+  <text x="578" y="246" class="body">누가 결정하고</text>
+  <text x="578" y="274" class="body">승인하는가</text>
+
+  <rect x="750" y="172" width="170" height="202" rx="16" fill="#ffffff" stroke="#93c5fd" stroke-width="2"/>
+  <text x="774" y="210" class="heading">기여 절차</text>
+  <text x="774" y="246" class="body">어디에 제안하고</text>
+  <text x="774" y="274" class="body">어떻게 검토하는가</text>
+
+  <rect x="946" y="172" width="172" height="202" rx="16" fill="#ffffff" stroke="#93c5fd" stroke-width="2"/>
+  <text x="970" y="210" class="heading">문화·운영</text>
+  <text x="970" y="246" class="body">사람을 대하는 방식</text>
+  <text x="970" y="274" class="body">인력·비용·소통 기반</text>
+
+  <text x="54" y="478" class="note">OSS 라이선스는 외부 기여의 수용, 공개적인 의사결정이나 건강한 커뮤니티를 자동으로 보장하지 않습니다.</text>
+  <text x="54" y="506" class="note">기여자는 라이선스와 프로젝트 운영 방식을 각각 확인해야 합니다.</text>
+</svg>

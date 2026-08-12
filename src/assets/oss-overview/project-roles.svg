@@ -54,5 +54,5 @@
 
   <path d="M 150 358 C 385 410, 815 410, 1052 358" fill="none" stroke="#94a3b8" stroke-width="3" marker-end="url(#role-arrow)"/>
   <text x="406" y="432" class="note">오른쪽으로 갈수록 보통 책임과 권한의 범위가 넓어집니다.</text>
-  <text x="54" y="456" class="note">승진표가 아닙니다. 역할을 건너뛰거나 겸할 수 있고, 명칭과 권한은 프로젝트마다 다릅니다.</text>
+  <text x="54" y="456" class="note">가치의 서열이나 승진표가 아닙니다. 역할을 건너뛰거나 겸할 수 있고, 명칭과 권한은 프로젝트마다 다릅니다.</text>
 </svg>
