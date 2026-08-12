@@ -27,6 +27,6 @@
 - [부록](07-appendix/00-index.md)
   - [OSS 프로젝트와 단체 후원하기](07-appendix/01-donation-and-verification.md)
   - [OSS와 AI 사례 노트](07-appendix/02-oss-ai-case-notes.md)
-  - [추천 자료 모음](07-appendix/03-recommended-resources.md)
+  - [핵심 자료](07-appendix/03-core-resources.md)
   - [라이선스](07-appendix/04-licenses.md)
   - [이 가이드 개선하기](07-appendix/05-improving-this-guide.md)

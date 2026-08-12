@@ -1,49 +1,27 @@
-<!-- 외부 링크는 이 파일에서 관리합니다. 링크를 사용하는 문서의 마지막에서 이 파일을 include합니다. -->
+<!-- 반복해서 참고할 양질의 외부 자료와 공식 기준만 이 파일에서 관리합니다. -->
+<!-- 개인 계정, 개별 PR, 후원·결제 페이지와 단순 이동용 링크는 사용하는 문서에 직접 적습니다. -->
 
-[anthropic-ai-code-migration]: https://claude.com/blog/ai-code-migration
 [apache-how-it-works]: https://www.apache.org/foundation/how-it-works/
 [aosp-submit-code-changes]: https://source.android.com/docs/setup/contribute/submit-patches
-[author-github]: https://github.com/YangSiJun528
-[author-pull-requests]: https://github.com/search?q=author%3AYangSiJun528+is%3Apr&type=pullrequests
 [bun-rust-rewrite]: https://bun.com/blog/bun-in-rust
-[bun-zig-to-rust-pr]: https://github.com/oven-sh/bun/pull/30412
-[buy-me-a-coffee-fees]: https://help.buymeacoffee.com/en/articles/8105744-how-to-calculate-charges-on-your-payment
-[buy-me-a-coffee-overview]: https://help.buymeacoffee.com/en/articles/10182730-what-is-buy-me-a-coffee-and-how-does-it-work
 [choosealicense-no-permission]: https://choosealicense.com/ko/no-permission/
-[curl-contribution-guide]: https://curl.se/dev/contribute.html
 [curl-high-quality-chaos]: https://daniel.haxx.se/blog/2026/04/22/high-quality-chaos/
 [dco]: https://developercertificate.org/
-[donationbox-payment-history]: https://donationbox.co.kr/payment-history
 [elastic-license-2]: https://www.elastic.co/licensing/elastic-license/faq/
-[foss-for-all]: https://fossforall.org/
-[foss-for-all-disclosures]: https://fossforall.org/disclosures/
-[foss-for-all-donate]: https://fossforall.org/donate/
-[foss-for-all-finance]: https://finance.fossforall.org/
-[foss-for-all-github-sponsors]: https://github.com/sponsors/foss-for-all
 [fedify-ai-policy]: https://github.com/fedify-dev/fedify/blob/main/AI_POLICY.md
 [fsf-free-software-definition-ko]: https://www.gnu.org/philosophy/free-sw.ko.html
 [github-find-contributions]: https://docs.github.com/ko/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github
 [github-pull-request-overview]: https://docs.github.com/ko/pull-requests/get-started/about-pull-requests
 [github-pull-request-reviews]: https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews
-[github-sponsor-button]: https://docs.github.com/ko/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
-[github-sponsors-guide]: https://docs.github.com/ko/sponsors/sponsoring-open-source-contributors/sponsoring-an-open-source-contributor-through-github
 [hongminhee-foss-ai-talk]: https://hongminhee.codeberg.page/foss-kaist-cs350/
 [hwplibsharp-ai-porting]: https://devwrite.ai/ko/posts/hwplibsharp-upstream-management/
-[ko-fi-fees]: https://help.ko-fi.com/hc/en-us/articles/360002506494-Does-Ko-fi-take-a-fee
-[ko-fi-overview]: https://help.ko-fi.com/hc/en-us/articles/115003980093-How-do-I-get-paid
 [kubernetes-roles-and-responsibilities]: https://kubernetes.io/docs/contribute/participate/roles-and-responsibilities/
 [linux-kernel-submitting-patches]: https://www.kernel.org/doc/html/latest/process/submitting-patches.html
 [mariadb-bsl-11]: https://mariadb.com/bsl11/
-[medium-open-source-contributors]: https://medium.com/opensource-contributors
 [mozilla-ai-security]: https://blog.mozilla.org/en/firefox/privacy-security/ai-security-zero-day-vulnerabilities/
 [mozilla-mpl-faq]: https://www.mozilla.org/en-US/MPL/2.0/FAQ/
 [mongodb-sspl]: https://www.mongodb.com/legal/licensing/server-side-public-license
 [naver-open-source-guide]: https://naver.github.io/OpenSourceGuide/book/
-[omc-star-api-issue]: https://github.com/Yeachan-Heo/oh-my-claudecode/issues/82
-[open-collective-fiscal-hosts]: https://documentation.opencollective.com/fiscal-hosts/fiscal-hosts
-[open-collective-overview]: https://documentation.opencollective.com/why-open-collective/why-open-collective
-[open-source-collective-fees]: https://docs.oscollective.org/welcome-and-introduction-to-osc/fees
-[open-source-collective-fiscal-hosting]: https://docs.oscollective.org/welcome-and-introduction-to-osc/what-is-fiscal-hosting
 [open-source-guide]: https://opensource.guide/ko/how-to-contribute/
 [open-source-guide-legal]: https://opensource.guide/legal/
 [open-source-guide-after-contribution]: https://opensource.guide/ko/how-to-contribute/#기여한-후에-일어나는-일
@@ -58,14 +36,9 @@
 [producing-open-source-software]: https://producingoss.com/
 [qt-licensing]: https://doc.qt.io/qt-6/licensing.html
 [qt-third-party-licenses]: https://doc.qt.io/qt-6/licenses-used-in-qt.html
-[qemu-code-provenance]: https://www.qemu.org/docs/master/devel/code-provenance.html
 [richard-hipp-free-puppy]: https://www.youtube.com/watch?v=lSVgeMoXJTs&t=1733s
 [rust-llm-policy]: https://forge.rust-lang.org/policies/llm-usage.html
 [rust-license]: https://github.com/rust-lang/rust#license
-[servo-ai-contributions]: https://book.servo.org/contributing/getting-started.html#ai-contributions
-[software-freedom-conservancy-current-projects]: https://sfconservancy.org/projects/current/
-[software-freedom-conservancy-donate]: https://sfconservancy.org/donate/
-[software-freedom-conservancy-projects]: https://sfconservancy.org/projects/
 [sqlite-open-not-open-contribution]: https://github.com/sqlite/sqlite#public-domain
 [spdx-license-expressions]: https://spdx.github.io/spdx-spec/v2.3/SPDX-license-expressions/
 [spring-ai-security]: https://spring.io/blog/2026/06/01/spring_and_security_in_the_times_of_ai/

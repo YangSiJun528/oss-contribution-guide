@@ -4,7 +4,7 @@
 
 - AI가 바꾼 개발 비용
   - 정확히는 Bun의 Zig → Rust 재작성 사례
-  - [실제 PR][bun-zig-to-rust-pr]과 [Anthropic 설명][anthropic-ai-code-migration]을 같이 연결
+  - [Bun의 설명][bun-rust-rewrite]과 [실제 PR](https://github.com/oven-sh/bun/pull/30412)을 같이 연결
 - 프로젝트의 AI 규칙
   - [Rust의 LLM 정책][rust-llm-policy]
   - Zig·Servo 등 금지 또는 제한 사례
@@ -25,6 +25,6 @@
 - 스타와 관심 지표의 왜곡
   - 설치 과정에서 스타를 요청하는 방식
   - 스타 구매·봇·가짜 계정
-  - 둘은 구분해야 함. OMC에서 확인되는 것은 [명시적 동의 후 스타 API를 실행하는 제안][omc-star-api-issue]이지, 스타 구매 증거는 아님
+  - 둘은 구분해야 함. OMC에서 확인되는 것은 [명시적 동의 후 스타 API를 실행하는 제안](https://github.com/Yeachan-Heo/oh-my-claudecode/issues/82)이지, 스타 구매 증거는 아님
 
 {{#include ../_includes/references.md}}

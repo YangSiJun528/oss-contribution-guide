@@ -4,9 +4,9 @@
 
 ## 저자 소개
 
-저는 [GitHub에서 YangSiJun528][author-github]로 활동하고 있고, 취미로 가끔 OSS에 참여합니다.
+저는 [GitHub에서 YangSiJun528](https://github.com/YangSiJun528)로 활동하고 있고, 취미로 가끔 OSS에 참여합니다.
 
-공개된 활동은 [GitHub에서 작성한 Pull Request 목록][author-pull-requests]에서 볼 수 있습니다.
+공개된 활동은 [GitHub에서 작성한 Pull Request 목록](https://github.com/search?q=author%3AYangSiJun528+is%3Apr&type=pullrequests)에서 볼 수 있습니다.
 
 제가 OSS에 참여하는 이유는 대략 이렇습니다.
 
@@ -66,5 +66,3 @@ OSS 활동 후기를 찾아보면 눈에 띄는 성과를 낸 사람들의 이�
 후기만 읽어서는 모든 것을 알기 어렵고, 처음 시작할 때는 이미 해 본 사람에게 물어보는 게 제일 빠릅니다.
 
 그래서 비정기적으로 모임을 열고 있습니다. 이 글은 모임에서 함께 볼 참고 자료로 만들었지만, 모임에 참여하지 않아도 볼 수 있도록 공개합니다.
-
-{{#include ../_includes/references.md}}
