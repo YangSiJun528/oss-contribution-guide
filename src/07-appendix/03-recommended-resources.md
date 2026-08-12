@@ -39,10 +39,6 @@
 - [curl의 AI 사용 안내](https://curl.se/dev/contribute.html): 제출자가 결과를 직접 이해하고 검증할 책임을 설명한다.
 - [HwpLibSharp 포팅 경험](https://devwrite.ai/ko/posts/hwplibsharp-upstream-management/): AI를 포팅에 사용하면서 사람이 방향과 도메인 검증을 맡은 사례다.
 
-## 기부처 찾기
-
-- [GitHub Sponsors 소개](https://docs.github.com/ko/sponsors/getting-started-with-github-sponsors/about-github-sponsors): 프로젝트나 기여자가 GitHub Sponsors를 운영하는지 확인할 때 본다.
-- [Software Freedom Conservancy](https://sfconservancy.org/): 비영리 단체가 지원하는 FOSS 프로젝트를 확인할 수 있다.
-- [Open Source Collective의 프로젝트 후원 안내](https://docs.oscollective.org/for-donors-companies-organizations-and-individuals/supporting-projects): Open Collective를 통해 프로젝트를 후원하는 방법을 설명한다.
-
 마지막 확인: 2026-08-12
+
+https://medium.com/opensource-contributors
