@@ -82,12 +82,17 @@
 
 AI 정책은 프로젝트마다 크게 다르다는 점을 보여 주는 사례로만 사용한다. 이 목록에서 보편 규칙을 도출하지 않는다.
 
+- [Nobody's job, everybody's problem: F/OSS in the age of AI](https://x.com/hongminhee/status/2054530143574770128?s=20): 유지보수 문제를 기여자 신뢰와 리뷰 용량 문제로 나누고, AI 정책이 어떤 문제를 해결하려는지 구분하는 강의 자료다.
 - [Rust LLM 사용 정책](https://forge.rust-lang.org/policies/llm-usage.html): 허용 범위와 책임을 세분화한 정책 사례다.
 - [Zig의 strict no-LLM 정책](https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy): 생성, 편집, 번역, 브레인스토밍 등을 폭넓게 금지하는 사례다.
 - [Servo의 AI contribution 안내](https://book.servo.org/contributing/getting-started.html#ai-contributions): 제출물 생성은 금지하지만 코드 탐색과 직접 검증한 버그 발견 등은 구분하는 사례다.
 - [QEMU의 code provenance 정책](https://www.qemu.org/docs/master/devel/code-provenance.html): 생성물의 출처와 라이선스 위험을 중심으로 한 사례다.
 - [curl의 AI 사용 안내](https://curl.se/dev/contribute.html): AI 보조 여부보다 제출자가 직접 이해·검증하고 책임지는지를 강조하는 사례다.
 - [HwpLibSharp 포팅 경험](https://devwrite.ai/ko/posts/hwplibsharp-upstream-management/): AI로 언어 포팅을 보조하되 사람이 방향 설정과 도메인 검증을 맡은 사례다.
+
+### 기여와 유지보수 책임
+
+- [Richard Hipp의 공짜 강아지 비유](https://x.com/ruanyf/status/2070309433813676248?s=20): PR은 코드만 받는 일이 아니라 검토, 테스트, 문서와 장기 유지보수 책임을 함께 인수하는 일이라는 설명이다.
 
 ## 공개 자료에 넣지 않을 것
 

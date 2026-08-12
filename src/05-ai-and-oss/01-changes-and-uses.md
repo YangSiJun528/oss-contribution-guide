@@ -27,3 +27,9 @@
 - 반복 작업 보조
 - 충분히 이해하고 검증한 포팅
 - 사람이 방향과 최종 책임을 맡는 실험적 프로젝트
+
+## 더 보기
+
+- [Nobody's job, everybody's problem: F/OSS in the age of AI][hongminhee-foss-ai-talk]: OSS의 유지보수 문제와 AI 기여가 만드는 신뢰·리뷰 용량 문제를 함께 설명한 강의 자료
+
+{{#include ../_includes/references.md}}

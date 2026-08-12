@@ -36,5 +36,6 @@
 ## 더 보기
 
 - [오픈소스에 기여하는 방법][open-source-guide]: 프로젝트를 존중하며 제안하고 대화하는 일반적인 방법
+- [Richard Hipp의 공짜 강아지 비유][richard-hipp-free-puppy]: PR을 받아들이면 메인테이너에게 검토뿐 아니라 문서화, 테스트와 장기 유지보수 부담도 생긴다는 설명
 
 {{#include ../_includes/references.md}}

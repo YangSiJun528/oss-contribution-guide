@@ -27,6 +27,7 @@
 
 - [Producing Open Source Software][producing-open-source-software]: 커뮤니케이션, 운영, 거버넌스를 깊게 다루는 무료 영문 도서다.
 - [오픈 소스로 미래를 연마하라][yes24-forge-your-future-with-open-source]: 기여 생태계와 참여 과정을 체계적으로 보고 싶을 때 참고할 수 있다. 2019년 책이라 AI 관련 변화는 다루지 않는다.
+- [Nobody's job, everybody's problem: F/OSS in the age of AI][hongminhee-foss-ai-talk]: OSS의 철학, 공공재와 유지보수 문제부터 AI 기여 정책까지 연결해 설명한 강의 자료다.
 
 ## AI 정책과 활용 사례
 

@@ -24,6 +24,7 @@
 [github-pull-request-reviews]: https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews
 [github-sponsor-button]: https://docs.github.com/ko/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/displaying-a-sponsor-button-in-your-repository
 [github-sponsors-guide]: https://docs.github.com/ko/sponsors/sponsoring-open-source-contributors/sponsoring-an-open-source-contributor-through-github
+[hongminhee-foss-ai-talk]: https://x.com/hongminhee/status/2054530143574770128?s=20
 [hwplibsharp-ai-porting]: https://devwrite.ai/ko/posts/hwplibsharp-upstream-management/
 [ko-fi-fees]: https://help.ko-fi.com/hc/en-us/articles/360002506494-Does-Ko-fi-take-a-fee
 [ko-fi-overview]: https://help.ko-fi.com/hc/en-us/articles/115003980093-How-do-I-get-paid
@@ -54,6 +55,7 @@
 [qt-licensing]: https://doc.qt.io/qt-6/licensing.html
 [qt-third-party-licenses]: https://doc.qt.io/qt-6/licenses-used-in-qt.html
 [qemu-code-provenance]: https://www.qemu.org/docs/master/devel/code-provenance.html
+[richard-hipp-free-puppy]: https://x.com/ruanyf/status/2070309433813676248?s=20
 [rust-llm-policy]: https://forge.rust-lang.org/policies/llm-usage.html
 [rust-license]: https://github.com/rust-lang/rust#license
 [servo-ai-contributions]: https://book.servo.org/contributing/getting-started.html#ai-contributions
