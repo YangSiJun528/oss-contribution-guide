@@ -1,8 +1,6 @@
 > 아직 작성 중입니다.
 
-# OSS 개요
-
-## OSS와 FOSS
+# OSS와 FOSS
 
 - OSS의 기본적인 의미와 기준
 - FOSS가 강조하는 가치
