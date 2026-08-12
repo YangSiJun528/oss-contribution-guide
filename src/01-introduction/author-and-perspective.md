@@ -1,3 +1,5 @@
+> 아직 작성 중입니다.
+
 # 저자와 이 글의 관점
 
 - [저자 GitHub](https://github.com/YangSiJun528)와 기여 경험
