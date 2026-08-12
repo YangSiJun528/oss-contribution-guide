@@ -61,3 +61,8 @@ AI를 사용했다면 최소한 다음 질문에는 직접 답할 수 있어야 
 - [HwpLibSharp 포팅 경험][hwplibsharp-ai-porting]: AI를 반복 변환과 업스트림 동기화에 활용하면서 사람의 판단 영역을 구분한 사례
 
 {{#include ../_includes/references.md}}
+
+[curl-high-quality-chaos]: https://daniel.haxx.se/blog/2026/04/22/high-quality-chaos/
+[hwplibsharp-ai-porting]: https://devwrite.ai/ko/posts/hwplibsharp-upstream-management/
+[mozilla-ai-security]: https://blog.mozilla.org/en/firefox/privacy-security/ai-security-zero-day-vulnerabilities/
+[spring-ai-security]: https://spring.io/blog/2026/06/01/spring_and_security_in_the_times_of_ai/

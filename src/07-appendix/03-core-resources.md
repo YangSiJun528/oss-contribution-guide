@@ -22,3 +22,5 @@
 마지막 확인: 2026-08-12
 
 {{#include ../_includes/references.md}}
+
+[parksb-open-source-guide]: https://parksb.github.io/article/13.html

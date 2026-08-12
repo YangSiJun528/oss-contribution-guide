@@ -44,3 +44,6 @@ AI 사용에 대한 입장도 프로젝트 문화의 일부입니다. 관련 정
 - [Producing Open Source Software][producing-open-source-software]: 프로젝트 운영과 커뮤니케이션을 깊게 다루는 무료 영문 도서
 
 {{#include ../_includes/references.md}}
+
+[aosp-submit-code-changes]: https://source.android.com/docs/setup/contribute/submit-patches
+[linux-kernel-submitting-patches]: https://www.kernel.org/doc/html/latest/process/submitting-patches.html

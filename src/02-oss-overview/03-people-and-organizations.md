@@ -47,3 +47,6 @@ OSS 프로젝트에는 코드를 쓰는 사람만 있는 것이 아닙니다. �
 - [오픈소스 프로젝트의 해부학][open-source-guide-project-anatomy]: 일반적인 역할과 프로젝트 구조
 
 {{#include ../_includes/references.md}}
+
+[kubernetes-roles-and-responsibilities]: https://kubernetes.io/docs/contribute/participate/roles-and-responsibilities/
+[open-source-guide-project-anatomy]: https://opensource.guide/ko/how-to-contribute/#오픈소스-프로젝트의-해부학

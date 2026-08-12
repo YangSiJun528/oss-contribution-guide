@@ -24,4 +24,4 @@
 
 - [기여한 후에 일어나는 일][open-source-guide-after-contribution]: 제출 이후 가능한 결과와 후속 참여
 
-{{#include ../_includes/references.md}}
+[open-source-guide-after-contribution]: https://opensource.guide/ko/how-to-contribute/#기여한-후에-일어나는-일

@@ -57,3 +57,6 @@ AI 정책은 단순한 도구 취향이 아닙니다. 프로젝트가 원하는 
 - [Zig의 Strict No LLM / No AI Policy][zig-no-llm-policy]: 공식 프로젝트 공간에서 LLM 사용을 전면적으로 제한하는 정책
 
 {{#include ../_includes/references.md}}
+
+[fedify-ai-policy]: https://github.com/fedify-dev/fedify/blob/main/AI_POLICY.md
+[zig-no-llm-policy]: https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy

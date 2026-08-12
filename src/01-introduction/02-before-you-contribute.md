@@ -31,3 +31,5 @@ OSS 기여 전반에 대해 더 알고 싶다면 다음 자료를 참고할 수 
 * 『오픈 소스로 미래를 연마하라』(VM 브라수어)
 
 {{#include ../_includes/references.md}}
+
+[open-source-guide-legal]: https://opensource.guide/legal/

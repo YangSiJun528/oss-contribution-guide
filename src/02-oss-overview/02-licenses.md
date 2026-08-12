@@ -65,3 +65,14 @@
 - [Developer Certificate of Origin][dco]: 프로젝트에서 DCO 서명을 요구할 때 확인할 원문
 
 {{#include ../_includes/references.md}}
+
+[choosealicense-no-permission]: https://choosealicense.com/ko/no-permission/
+[elastic-license-2]: https://www.elastic.co/licensing/elastic-license/faq/
+[mariadb-bsl-11]: https://mariadb.com/bsl11/
+[mongodb-sspl]: https://www.mongodb.com/legal/licensing/server-side-public-license
+[mozilla-mpl-faq]: https://www.mozilla.org/en-US/MPL/2.0/FAQ/
+[osi-sspl-not-open-source]: https://opensource.org/blog/the-sspl-is-not-an-open-source-license
+[qt-licensing]: https://doc.qt.io/qt-6/licensing.html
+[qt-third-party-licenses]: https://doc.qt.io/qt-6/licenses-used-in-qt.html
+[rust-license]: https://github.com/rust-lang/rust#license
+[spdx-license-expressions]: https://spdx.github.io/spdx-spec/v2.3/SPDX-license-expressions/

@@ -32,4 +32,5 @@
 
 - [Pull Request 리뷰 소개][github-pull-request-reviews]: 승인, 변경 요청, 댓글 등 GitHub의 리뷰 기능
 
-{{#include ../_includes/references.md}}
+[github-pull-request-overview]: https://docs.github.com/ko/pull-requests/get-started/about-pull-requests
+[github-pull-request-reviews]: https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews

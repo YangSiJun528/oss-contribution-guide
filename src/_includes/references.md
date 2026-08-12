@@ -1,45 +1,14 @@
-<!-- 반복해서 참고할 양질의 외부 자료와 공식 기준만 이 파일에서 관리합니다. -->
-<!-- 개인 계정, 개별 PR, 후원·결제 페이지와 단순 이동용 링크는 사용하는 문서에 직접 적습니다. -->
+<!-- 여러 문서에서 반복해서 사용하는 외부 자료만 이 파일에서 관리합니다. -->
+<!-- 한 문서에서만 사용하는 자료와 일반 링크는 해당 문서에서 관리합니다. -->
 
 [apache-how-it-works]: https://www.apache.org/foundation/how-it-works/
-[aosp-submit-code-changes]: https://source.android.com/docs/setup/contribute/submit-patches
 [bun-rust-rewrite]: https://bun.com/blog/bun-in-rust
-[choosealicense-no-permission]: https://choosealicense.com/ko/no-permission/
-[curl-high-quality-chaos]: https://daniel.haxx.se/blog/2026/04/22/high-quality-chaos/
 [dco]: https://developercertificate.org/
-[elastic-license-2]: https://www.elastic.co/licensing/elastic-license/faq/
-[fedify-ai-policy]: https://github.com/fedify-dev/fedify/blob/main/AI_POLICY.md
 [fsf-free-software-definition-ko]: https://www.gnu.org/philosophy/free-sw.ko.html
-[github-find-contributions]: https://docs.github.com/ko/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github
-[github-pull-request-overview]: https://docs.github.com/ko/pull-requests/get-started/about-pull-requests
-[github-pull-request-reviews]: https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews
 [hongminhee-foss-ai-talk]: https://hongminhee.codeberg.page/foss-kaist-cs350/
-[hwplibsharp-ai-porting]: https://devwrite.ai/ko/posts/hwplibsharp-upstream-management/
-[kubernetes-roles-and-responsibilities]: https://kubernetes.io/docs/contribute/participate/roles-and-responsibilities/
-[linux-kernel-submitting-patches]: https://www.kernel.org/doc/html/latest/process/submitting-patches.html
-[mariadb-bsl-11]: https://mariadb.com/bsl11/
-[mozilla-ai-security]: https://blog.mozilla.org/en/firefox/privacy-security/ai-security-zero-day-vulnerabilities/
-[mozilla-mpl-faq]: https://www.mozilla.org/en-US/MPL/2.0/FAQ/
-[mongodb-sspl]: https://www.mongodb.com/legal/licensing/server-side-public-license
 [naver-open-source-guide]: https://naver.github.io/OpenSourceGuide/book/
 [open-source-guide]: https://opensource.guide/ko/how-to-contribute/
-[open-source-guide-legal]: https://opensource.guide/legal/
-[open-source-guide-after-contribution]: https://opensource.guide/ko/how-to-contribute/#기여한-후에-일어나는-일
-[open-source-guide-find-project]: https://opensource.guide/ko/how-to-contribute/#기여할-프로젝트-찾기
-[open-source-guide-project-anatomy]: https://opensource.guide/ko/how-to-contribute/#오픈소스-프로젝트의-해부학
-[open-weights-not-open-source]: https://point.free/blog/open-weights-not-open-source/
-[osi-open-source-ai-definition]: https://opensource.org/ai/open-source-ai-definition
 [osi-approved-licenses]: https://opensource.org/licenses
-[osi-sspl-not-open-source]: https://opensource.org/blog/the-sspl-is-not-an-open-source-license
 [osi-open-source-definition]: https://opensource.org/osd
-[parksb-open-source-guide]: https://parksb.github.io/article/13.html
 [producing-open-source-software]: https://producingoss.com/
-[qt-licensing]: https://doc.qt.io/qt-6/licensing.html
-[qt-third-party-licenses]: https://doc.qt.io/qt-6/licenses-used-in-qt.html
-[richard-hipp-free-puppy]: https://www.youtube.com/watch?v=lSVgeMoXJTs&t=1733s
 [rust-llm-policy]: https://forge.rust-lang.org/policies/llm-usage.html
-[rust-license]: https://github.com/rust-lang/rust#license
-[sqlite-open-not-open-contribution]: https://github.com/sqlite/sqlite#public-domain
-[spdx-license-expressions]: https://spdx.github.io/spdx-spec/v2.3/SPDX-license-expressions/
-[spring-ai-security]: https://spring.io/blog/2026/06/01/spring_and_security_in_the_times_of_ai/
-[zig-no-llm-policy]: https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy

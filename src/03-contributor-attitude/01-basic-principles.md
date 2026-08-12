@@ -41,3 +41,6 @@ SQLite의 Richard Hipp는 PR을 **공짜 강아지**에 비유했습니다. 받�
 - 『오픈 소스로 미래를 연마하라』(VM 브라수어): 기여 준비, 프로젝트 문화와 커뮤니티 소통을 폭넓게 다루는 책
 
 {{#include ../_includes/references.md}}
+
+[richard-hipp-free-puppy]: https://www.youtube.com/watch?v=lSVgeMoXJTs&t=1733s
+[sqlite-open-not-open-contribution]: https://github.com/sqlite/sqlite#public-domain

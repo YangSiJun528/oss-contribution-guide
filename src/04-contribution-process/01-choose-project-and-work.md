@@ -35,3 +35,6 @@
 - 보안 문제라면 공개 Issue보다 보안 신고 절차 우선
 
 {{#include ../_includes/references.md}}
+
+[github-find-contributions]: https://docs.github.com/ko/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github
+[open-source-guide-find-project]: https://opensource.guide/ko/how-to-contribute/#기여할-프로젝트-찾기
