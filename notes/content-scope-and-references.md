@@ -2,7 +2,7 @@
 
 > 공개 본문이 아니라 집필할 때 참고하는 내부 문서다. 어떤 내용을 직접 쓰고 어떤 내용을 외부 자료로 넘길지 정리한다.
 
-2026-08-12: AI 정책·사례 부분을 제외한 축약안과 본문별 외부 링크 배치를 적용했다. 하위 글은 35개에서 25개로 줄었다.
+2026-08-12: AI 정책·사례 부분을 제외한 축약안과 본문별 외부 링크 배치를 적용했다. 하위 글은 35개에서 20개로 줄었다.
 
 ## 기본 원칙
 
@@ -47,14 +47,9 @@
 | 2.5 프로젝트 문화 | 직접 | 최근 Issue·PR과 공식 채널에서 실제 규칙을 확인하는 방법을 다룬다. |
 | 3.1–3.4 기여자의 태도 | 섹션 첫 페이지로 합치기 | 제안, 검토·유지 비용, 관계, 프로젝트 존중을 하나의 흐름으로 설명한다. |
 | 3.5 AI를 사용할 때의 책임 | 유지 | AI 정책·사례 부분과 함께 나중에 정리한다. |
-| 4.1 프로젝트 찾기 | 직접 | [GitHub에서 기여할 곳 찾기](https://docs.github.com/ko/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)를 보충 자료로 둔다. |
-| 4.2 기여 방식 파악 | 직접 | 저장소에서 확인할 파일과 최근 사례를 체크리스트로 둔다. |
-| 4.3 작업 찾기·물어보기 | 직접 | 첫 작업의 유효성, 중복 여부, 범위를 판단하는 기준을 둔다. |
-| 4.4 문제 이해 | 직접 | 재현, 관련 코드·이력, 성공 조건만 짧게 다룬다. |
-| 4.5 구현·검증 | 직접 | 필요한 변경만 하기와 직접 실행한 검증을 중심으로 둔다. |
-| 4.6 제출 전 검토 | 직접 | 실제 제출 직전에 쓰는 체크리스트로 둔다. |
-| 4.7 커밋과 PR | 요약+링크 | PR에 들어갈 정보와 “검토 가능” 기준만 쓰고 조작법은 [GitHub PR 문서](https://docs.github.com/ko/pull-requests/get-started/about-pull-requests)로 보낸다. |
-| 4.8 리뷰 대화 | 요약+링크 | 모임의 원칙만 쓰고 기능 설명은 [GitHub PR 리뷰 문서](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews)로 보낸다. |
+| 4.1 프로젝트와 작업 정하기 | 세 글을 합치기 | 프로젝트 선택, 기여 방식 확인, 첫 작업 선택을 한 흐름으로 설명한다. [GitHub에서 기여할 곳 찾기](https://docs.github.com/ko/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)를 보충 자료로 둔다. |
+| 4.2 문제를 해결하고 검증하기 | 세 글을 합치기 | 문제 재현과 이해, 필요한 변경, 테스트, 제출 전 diff 검토를 한 흐름으로 설명한다. |
+| 4.3 PR 제출하고 리뷰받기 | 두 글을 합치기 | PR에 들어갈 정보와 “검토 가능” 기준만 쓰고 기능 설명은 [GitHub PR 문서](https://docs.github.com/ko/pull-requests/get-started/about-pull-requests)와 [리뷰 문서](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews)로 보낸다. |
 | 5.1–5.5 AI와 OSS | 이번 작업에서 제외 | 별도 작업에서 `AI가 만든 변화와 사례`, `AI를 사용할 때의 원칙`으로 압축하는 안을 검토한다. |
 | 6.1 PR 결과 | 직접 | 병합 여부와 이 가이드의 목표 달성을 분리해 설명한다. |
 | 6.2 다음 참여 | 합치기 | 6장 첫 페이지나 6.1의 끝에 선택지로 넣는다. |
@@ -64,7 +59,7 @@
 | 추천 자료 | 링크 중심 | 독자가 사용할 핵심 자료와 한 줄 설명만 둔다. |
 | 라이선스 | 직접 | 이 저장소의 콘텐츠·예제 코드·제3자 자료 구분만 명시한다. |
 
-AI 정책·사례 부분을 제외하고 합칠 항목을 반영해 하위 글을 35개에서 25개로 줄였다. 4장은 실제 기여 흐름이므로 현재 구조를 유지했다.
+AI 정책·사례 부분을 제외하고 합칠 항목을 반영해 하위 글을 35개에서 20개로 줄였다. 4장은 여덟 글을 세 단계로 묶었다.
 
 ## 외부로 넘기기 좋은 핵심 자료
 
