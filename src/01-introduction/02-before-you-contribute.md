@@ -17,5 +17,7 @@ OSS 기여 전반에 대해 더 알고 싶다면 다음 자료를 참고할 수 
 그렇지만 오픈소스에 참여하는 기본 원칙과 태도를 이해하는 데에는 지금도 중요한 자료라고 생각합니다.
 AI로 기여의 진입 장벽이 낮아진 지금은 오히려 이런 기본 원칙이 더 중요해졌다고 생각합니다.
 
-* [Open Source Guides - 오픈소스에 기여하는 방법](https://opensource.guide/ko/how-to-contribute/)
-* [책 - 오픈 소스로 미래를 연마하라](https://www.yes24.com/product/goods/80093196)
+* [Open Source Guides - 오픈소스에 기여하는 방법][open-source-guide]
+* [책 - 오픈 소스로 미래를 연마하라][yes24-forge-your-future-with-open-source]
+
+{{#include ../_includes/references.md}}

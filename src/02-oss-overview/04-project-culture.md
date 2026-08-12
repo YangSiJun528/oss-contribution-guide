@@ -21,5 +21,7 @@
 
 ## 더 보기
 
-- [오픈소스에 기여하는 방법](https://opensource.guide/ko/how-to-contribute/): 일반적인 프로젝트 구조와 의사소통 방식
-- [Producing Open Source Software](https://producingoss.com/): 프로젝트 운영과 커뮤니케이션을 깊게 다루는 무료 영문 도서
+- [오픈소스에 기여하는 방법][open-source-guide]: 일반적인 프로젝트 구조와 의사소통 방식
+- [Producing Open Source Software][producing-open-source-software]: 프로젝트 운영과 커뮤니케이션을 깊게 다루는 무료 영문 도서
+
+{{#include ../_includes/references.md}}

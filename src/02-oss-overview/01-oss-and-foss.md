@@ -10,6 +10,8 @@
 
 ## 더 보기
 
-- [Open Source Definition](https://opensource.org/osd): OSS로 인정되는 라이선스의 기준
-- [자유 소프트웨어의 정의](https://www.gnu.org/philosophy/free-sw.ko.html): FOSS에서 말하는 자유의 의미
-- [네이버 오픈소스 가이드](https://naver.github.io/OpenSourceGuide/book/): OSS, 라이선스, 기여 절차를 폭넓게 다루는 한국어 자료. 오래된 화면과 절차는 최신 공식 문서에서 다시 확인
+- [Open Source Definition][osi-open-source-definition]: OSS로 인정되는 라이선스의 기준
+- [자유 소프트웨어의 정의][fsf-free-software-definition-ko]: FOSS에서 말하는 자유의 의미
+- [네이버 오픈소스 가이드][naver-open-source-guide]: OSS, 라이선스, 기여 절차를 폭넓게 다루는 한국어 자료. 오래된 화면과 절차는 최신 공식 문서에서 다시 확인
+
+{{#include ../_includes/references.md}}

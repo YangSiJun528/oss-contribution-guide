@@ -13,15 +13,15 @@
 
 ### 더 보기
 
-- [GitHub에서 OSS에 기여할 방법 찾기](https://docs.github.com/ko/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github): 관리 중인 프로젝트와 첫 작업을 찾는 GitHub 기능
-- [오픈소스에 기여하는 방법](https://opensource.guide/ko/how-to-contribute/#기여할-프로젝트-찾기): 프로젝트를 고를 때 확인할 일반적인 기준
+- [GitHub에서 OSS에 기여할 방법 찾기][github-find-contributions]: 관리 중인 프로젝트와 첫 작업을 찾는 GitHub 기능
+- [오픈소스에 기여하는 방법][open-source-guide-find-project]: 프로젝트를 고를 때 확인할 일반적인 기준
 
 ## 프로젝트의 기여 방식 파악하기
 
 - `README`와 `CONTRIBUTING` 확인
 - Issue·PR 템플릿 확인
 - `SECURITY`와 AI 정책 확인
-- CLA·[DCO](https://developercertificate.org/) 여부 확인
+- CLA·[DCO][dco] 여부 확인
 - 최근 병합·거절된 PR 확인
 - 문서에 없는 커밋·테스트·대화 관습 확인
 
@@ -33,3 +33,5 @@
 - 작은 범위의 명확한 작업 선택
 - Issue가 없다면 조사한 내용과 구현 계획을 먼저 제안
 - 보안 문제라면 공개 Issue보다 보안 신고 절차 우선
+
+{{#include ../_includes/references.md}}

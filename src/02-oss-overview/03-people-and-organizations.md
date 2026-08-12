@@ -15,4 +15,6 @@
 
 ## 더 보기
 
-- [오픈소스 프로젝트의 해부학](https://opensource.guide/ko/how-to-contribute/#오픈소스-프로젝트의-해부학): 일반적인 역할과 프로젝트 구조
+- [오픈소스 프로젝트의 해부학][open-source-guide-project-anatomy]: 일반적인 역할과 프로젝트 구조
+
+{{#include ../_includes/references.md}}

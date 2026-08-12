@@ -35,4 +35,6 @@
 
 ## 더 보기
 
-- [오픈소스에 기여하는 방법](https://opensource.guide/ko/how-to-contribute/): 프로젝트를 존중하며 제안하고 대화하는 일반적인 방법
+- [오픈소스에 기여하는 방법][open-source-guide]: 프로젝트를 존중하며 제안하고 대화하는 일반적인 방법
+
+{{#include ../_includes/references.md}}

@@ -11,5 +11,7 @@
 
 ## 더 보기
 
-- [라이선스가 없는 코드](https://choosealicense.com/ko/no-permission/): 공개 저장소에 라이선스가 없을 때의 기본적인 취급
-- [Developer Certificate of Origin](https://developercertificate.org/): 프로젝트에서 DCO 서명을 요구할 때 확인할 원문
+- [라이선스가 없는 코드][choosealicense-no-permission]: 공개 저장소에 라이선스가 없을 때의 기본적인 취급
+- [Developer Certificate of Origin][dco]: 프로젝트에서 DCO 서명을 요구할 때 확인할 원문
+
+{{#include ../_includes/references.md}}
