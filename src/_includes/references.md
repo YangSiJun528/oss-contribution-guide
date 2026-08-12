@@ -5,11 +5,13 @@
 [aosp-submit-code-changes]: https://source.android.com/docs/setup/contribute/submit-patches
 [author-github]: https://github.com/YangSiJun528
 [author-pull-requests]: https://github.com/search?q=author%3AYangSiJun528+is%3Apr&type=pullrequests
+[bun-rust-rewrite]: https://bun.com/blog/bun-in-rust
 [bun-zig-to-rust-pr]: https://github.com/oven-sh/bun/pull/30412
 [buy-me-a-coffee-fees]: https://help.buymeacoffee.com/en/articles/8105744-how-to-calculate-charges-on-your-payment
 [buy-me-a-coffee-overview]: https://help.buymeacoffee.com/en/articles/10182730-what-is-buy-me-a-coffee-and-how-does-it-work
 [choosealicense-no-permission]: https://choosealicense.com/ko/no-permission/
 [curl-contribution-guide]: https://curl.se/dev/contribute.html
+[curl-high-quality-chaos]: https://daniel.haxx.se/blog/2026/04/22/high-quality-chaos/
 [dco]: https://developercertificate.org/
 [donationbox-payment-history]: https://donationbox.co.kr/payment-history
 [elastic-license-2]: https://www.elastic.co/licensing/elastic-license/faq/
@@ -18,6 +20,7 @@
 [foss-for-all-donate]: https://fossforall.org/donate/
 [foss-for-all-finance]: https://finance.fossforall.org/
 [foss-for-all-github-sponsors]: https://github.com/sponsors/foss-for-all
+[fedify-ai-policy]: https://github.com/fedify-dev/fedify/blob/main/AI_POLICY.md
 [fsf-free-software-definition-ko]: https://www.gnu.org/philosophy/free-sw.ko.html
 [github-find-contributions]: https://docs.github.com/ko/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github
 [github-pull-request-overview]: https://docs.github.com/ko/pull-requests/get-started/about-pull-requests
@@ -32,6 +35,7 @@
 [linux-kernel-submitting-patches]: https://www.kernel.org/doc/html/latest/process/submitting-patches.html
 [mariadb-bsl-11]: https://mariadb.com/bsl11/
 [medium-open-source-contributors]: https://medium.com/opensource-contributors
+[mozilla-ai-security]: https://blog.mozilla.org/en/firefox/privacy-security/ai-security-zero-day-vulnerabilities/
 [mozilla-mpl-faq]: https://www.mozilla.org/en-US/MPL/2.0/FAQ/
 [mongodb-sspl]: https://www.mongodb.com/legal/licensing/server-side-public-license
 [naver-open-source-guide]: https://naver.github.io/OpenSourceGuide/book/
@@ -64,4 +68,5 @@
 [software-freedom-conservancy-projects]: https://sfconservancy.org/projects/
 [sqlite-open-not-open-contribution]: https://github.com/sqlite/sqlite#public-domain
 [spdx-license-expressions]: https://spdx.github.io/spdx-spec/v2.3/SPDX-license-expressions/
+[spring-ai-security]: https://spring.io/blog/2026/06/01/spring_and_security_in_the_times_of_ai/
 [zig-no-llm-policy]: https://ziglang.org/code-of-conduct/#strict-no-llm-no-ai-policy

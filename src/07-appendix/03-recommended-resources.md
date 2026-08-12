@@ -34,10 +34,15 @@
 아래 링크는 정책이 프로젝트마다 다르다는 점을 보여 주는 사례다. 실제 기여에서는 대상 프로젝트의 최신 정책을 직접 확인해야 한다.
 
 - [Rust LLM 사용 정책][rust-llm-policy]: 허용 범위와 기여자의 책임을 세분화한 사례다.
+- [Fedify의 AI 사용 정책][fedify-ai-policy]: AI 활용을 환영하면서 모든 사용 공개, 사전 합의와 사람의 검증을 요구하는 사례다.
 - [Zig의 strict no-LLM 정책][zig-no-llm-policy]: LLM 사용을 폭넓게 금지하는 사례다.
 - [Servo의 AI contribution 안내][servo-ai-contributions]: 제출물 생성과 코드 탐색·검증 보조를 구분하는 사례다.
 - [QEMU의 code provenance 정책][qemu-code-provenance]: 생성물의 출처와 라이선스 위험을 중심으로 한 사례다.
 - [curl의 AI 사용 안내][curl-contribution-guide]: 제출자가 결과를 직접 이해하고 검증할 책임을 설명한다.
+- [curl의 High-Quality Chaos][curl-high-quality-chaos]: 저품질 보고로 중단했던 버그 바운티를 다시 연 뒤 보고량과 품질이 함께 높아진 사례다.
+- [Spring의 AI 시대 보안 보고 회고][spring-ai-security]: AI가 유효한 취약점과 중복·오탐을 함께 늘린 상황을 설명한다.
+- [Mozilla의 보안 연구 사례][mozilla-ai-security]: AI 코드 분석에서 찾은 취약점 271개를 Firefox 150에서 수정한 사례다.
+- [Bun을 Rust로 재작성한 기록][bun-rust-rewrite]: 대규모 AI 코드 변환에서 규칙, 테스트와 검토 과정을 설계한 사례다.
 - [HwpLibSharp 포팅 경험][hwplibsharp-ai-porting]: AI를 포팅에 사용하면서 사람이 방향과 도메인 검증을 맡은 사례다.
 
 마지막 확인: 2026-08-12
