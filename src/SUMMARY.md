@@ -30,3 +30,4 @@
   - [핵심 자료](07-appendix/03-core-resources.md)
   - [라이선스](07-appendix/04-licenses.md)
   - [이 가이드 개선하기](07-appendix/05-improving-this-guide.md)
+  - [저장소에서 확인할 파일](07-appendix/06-repository-files.md)
