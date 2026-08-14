@@ -8,6 +8,7 @@
 [hongminhee-foss-ai-talk]: https://hongminhee.codeberg.page/foss-kaist-cs350/
 [naver-open-source-guide]: https://naver.github.io/OpenSourceGuide/book/
 [open-source-guide]: https://opensource.guide/ko/how-to-contribute/
+[open-source-guide-project-anatomy]: https://opensource.guide/ko/how-to-contribute/#오픈소스-프로젝트의-해부학
 [osi-approved-licenses]: https://opensource.org/licenses
 [osi-open-source-definition]: https://opensource.org/osd
 [producing-open-source-software]: https://producingoss.com/

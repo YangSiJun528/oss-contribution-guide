@@ -50,7 +50,7 @@ AI를 사용했다면 최소한 다음 질문에는 직접 답할 수 있어야 
 - 잘못되었을 때 직접 수정하고 리뷰에 응답할 수 있는가?
 - 프로젝트가 이 사용 방식과 제출 방식을 허용하는가?
 
-일반적인 책임과 제출 기준은 [AI를 사용해도 책임은 기여자에게 있다](../03-contributor-attitude/02-contributor-responsibility-with-ai.md)를 참고합니다.
+공동체의 규칙과 상황을 고려하지 않은 제출의 문제는 [공동체를 무시하는 기여](../03-contributor-attitude/02-ignoring-the-community.md)를 참고합니다.
 
 ## 더 보기
 
