@@ -21,11 +21,11 @@
 
 ## 기여도 유지보수 비용을 만든다
 
-메인테이너는 변경의 필요성, 프로젝트 방향, 호환성, 보안과 앞으로의 관리 비용까지 검토합니다.
+기여자가 Issue나 PR을 제출해도 검토와 병합을 요구할 권리가 생기지는 않습니다. 메인테이너는 변경의 필요성, 프로젝트 방향, 호환성, 보안과 앞으로의 관리 비용까지 검토해야 합니다.
 
-대표적으로 SQLite는 외부 기여를 받지 않습니다. 제작자인 Richard Hipp는 PR을 **공짜 강아지**에 비유했습니다. 변경을 받아들이면 메인테이너가 이후에도 계속 관리해야 하기 때문입니다.
+프로젝트는 감당할 수 있는 범위와 방식으로 기여를 받을 수 있으며, 외부 PR을 받지 않을 수도 있습니다. 대표적으로 SQLite는 외부 기여를 받지 않습니다.
 
-Issue나 PR을 제출해도 검토와 병합을 요구할 권리가 생기지는 않습니다. 프로젝트는 감당할 수 있는 범위와 방식으로 기여를 받을 수 있으며, 외부 PR을 받지 않을 수도 있습니다.
+> 제작자인 Richard Hipp는 외부 기여자의 제안을 **공짜 강아지**에 비유해서 기여를 받지 않는 이유를 설명했는데요. 변경을 받아들이면 메인테이너가 이후에도 계속 관리해야 하기 때문입니다.
 
 ## 더 보기
 
@@ -35,5 +35,5 @@ Issue나 PR을 제출해도 검토와 병합을 요구할 권리가 생기지는
 
 {{#include ../_includes/references.md}}
 
-[richard-hipp-free-puppy]: https://www.youtube.com/watch?v=lSVgeMoXJTs&t=1733s
+[richard-hipp-free-puppy]: https://youtu.be/lSVgeMoXJTs?t=923
 [sqlite-open-not-open-contribution]: https://github.com/sqlite/sqlite#public-domain
