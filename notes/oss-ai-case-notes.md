@@ -27,7 +27,7 @@
   - 스타 구매·봇·가짜 계정
   - 둘은 구분해야 함. OMC에서 확인되는 것은 [명시적 동의 후 스타 API를 실행하는 제안](https://github.com/Yeachan-Heo/oh-my-claudecode/issues/82)이지, 스타 구매 증거는 아님
 
-{{#include ../_includes/references.md}}
+{{#include ../src/_includes/references.md}}
 
 [open-weights-not-open-source]: https://point.free/blog/open-weights-not-open-source/
 [osi-open-source-ai-definition]: https://opensource.org/ai/open-source-ai-definition
