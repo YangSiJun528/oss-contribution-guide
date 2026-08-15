@@ -2,6 +2,8 @@
 
 # OSS 프로젝트와 단체 후원하기
 
+> 이 파트는 모임 참여자에게만 적용됩니다.
+
 이 모임에서는 참가비를 운영자에게 내는 대신, 참가자가 모임에서 정한 후원 기준에 따라 원하는 OSS 프로젝트, 메인테이너 또는 관련 단체에 직접 후원합니다. 이는 일반적인 OSS 기여 조건이 아니라 이 모임의 참가 규칙입니다.
 
 ## 후원처 선택하기
@@ -27,15 +29,19 @@
 
 ### 자주 쓰이는 후원 방식
 
+대표적인 후원 서비스를 정리해 보았습니다. 기부로 치지 않는 경우가 있음? 수수료나 결제 방식에 차이가 있으니 주의하세요.
+
 - [GitHub Sponsors](https://docs.github.com/ko/sponsors/sponsoring-open-source-contributors/sponsoring-an-open-source-contributor-through-github): GitHub에서 개발자나 단체를 일회성 또는 정기 후원하는 서비스입니다.
-- [Ko-fi](https://help.ko-fi.com/hc/en-us/articles/115003980093-How-do-I-get-paid)와 [Buy Me a Coffee](https://help.buymeacoffee.com/en/articles/10182730-what-is-buy-me-a-coffee-and-how-does-it-work): 개인 메인테이너를 일회성 또는 정기 후원할 때 자주 쓰이는 서비스입니다. 수수료와 결제 방식은 서비스와 계정 설정에 따라 다르므로 각각의 [Ko-fi 수수료 안내](https://help.ko-fi.com/hc/en-us/articles/360002506494-Does-Ko-fi-take-a-fee)와 [Buy Me a Coffee 수수료 안내](https://help.buymeacoffee.com/en/articles/8105744-how-to-calculate-charges-on-your-payment)를 확인합니다.
-- [Open Collective](https://documentation.opencollective.com/why-open-collective/why-open-collective): 프로젝트의 예산과 거래 내역을 공개하면서 모금하고 지출할 수 있는 플랫폼입니다. 실제 자금을 관리하는 [Fiscal Host](https://documentation.opencollective.com/fiscal-hosts/fiscal-hosts)와 수수료는 프로젝트마다 다릅니다.
-- [Open Source Collective](https://docs.oscollective.org/welcome-and-introduction-to-osc/what-is-fiscal-hosting): Open Collective를 사용하는 OSS 프로젝트에 회계·행정 기반을 제공하는 Fiscal Host입니다. 현재 후원금에 10%의 운영 수수료와 별도 결제 수수료가 적용됩니다. 자세한 내용은 [공식 수수료 안내](https://docs.oscollective.org/welcome-and-introduction-to-osc/fees)를 확인합니다.
-- [Software Freedom Conservancy](https://sfconservancy.org/projects/): 소속 FLOSS 프로젝트에 법률·회계 기반을 제공하는 비영리 단체입니다. [소속 프로젝트](https://sfconservancy.org/projects/current/)를 지정해 후원할 수 있으며, 결제 방법은 [공식 후원 안내](https://sfconservancy.org/donate/)에서 확인합니다.
+- [Ko-fi](https://help.ko-fi.com/hc/en-us/articles/115003980093-How-do-I-get-paid)와 [Buy Me a Coffee](https://help.buymeacoffee.com/en/articles/10182730-what-is-buy-me-a-coffee-and-how-does-it-work): 개인 메인테이너를 일회성 또는 정기 후원할 때 자주 쓰이는 서비스입니다.
+- [Open Collective](https://documentation.opencollective.com/why-open-collective/why-open-collective): 프로젝트의 예산과 거래 내역을 공개하면서 모금하고 지출할 수 있는 플랫폼입니다.
+- [Open Source Collective](https://docs.oscollective.org/welcome-and-introduction-to-osc/what-is-fiscal-hosting): Open Collective를 사용하는 OSS 프로젝트에 회계·행정 기반을 제공하는 Fiscal Host입니다.
+- [Software Freedom Conservancy](https://sfconservancy.org/projects/): 소속 FLOSS 프로젝트에 법률·회계 기반을 제공하는 비영리 단체입니다.
 
 ## 기본 추천처: FOSS for All
 
-특정 프로젝트를 고르기 어렵다면 국내 FOSS 생태계 단체인 [FOSS for All](https://fossforall.org/)을 추천합니다. FOSS 프로젝트와 커뮤니티의 재정·행정 지원을 목적으로 하며, [단체 규정과 회의록](https://fossforall.org/disclosures/) 및 [회계 내역](https://finance.fossforall.org/)을 공개합니다.
+특정 프로젝트를 고르기 어렵다면 국내 FOSS 생태계 단체인 [FOSS for All](https://fossforall.org/)을 추천합니다.
+
+FOSS 프로젝트와 커뮤니티의 재정·행정 지원을 목적으로 하며, [단체 규정과 회의록](https://fossforall.org/disclosures/) 및 [회계 내역](https://finance.fossforall.org/)을 공개합니다.
 
 ### FOSS for All 후원 시 주의사항
 
