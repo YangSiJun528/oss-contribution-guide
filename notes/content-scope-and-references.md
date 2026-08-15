@@ -48,9 +48,9 @@
 | 3.2 공동체를 고려하지 않은 기여 | 직접 | 검토·유지 비용과 AI가 같은 문제를 쉽게 만든 사례를 함께 설명한다. |
 | 3.3 프로젝트마다 다른 AI 사용 규칙 | 사례 중심 | CPython·Linux·Fedify, Rust, OpenJDK·QEMU를 AI 생성 기여의 허용 범위에 따른 유형별 사례로 소개하고 Zig는 더 강경한 사례로 다룬다. |
 | 3.4 기여할 때 가져갈 태도 | 직접 | 프로젝트 존중, 검증, 대화와 떠날 수 있다는 점을 정리한다. |
-| 4.1 계속할 이유가 있는 프로젝트에서 명확한 첫 작업을 고른다 | 세 글을 합치기 | 프로젝트 선택, 기여 방식 확인, 첫 작업 선택을 한 흐름으로 설명한다. [GitHub에서 기여할 곳 찾기](https://docs.github.com/ko/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)를 보충 자료로 둔다. |
-| 4.2 문제를 재현하고 필요한 변경만 구현·검증한다 | 세 글을 합치기 | 문제 재현과 이해, 필요한 변경, 테스트, 제출 전 diff 검토를 한 흐름으로 설명한다. |
-| 4.3 검토자가 판단할 수 있는 PR을 제출하고 근거로 리뷰에 응답한다 | 두 글을 합치기 | PR에 들어갈 정보와 “검토 가능” 기준만 쓰고 기능 설명은 [GitHub PR 문서](https://docs.github.com/ko/pull-requests/get-started/about-pull-requests)와 [리뷰 문서](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews)로 보낸다. |
+| 4.1 프로젝트와 첫 작업 선택 | 세 글을 합치기 | 프로젝트 선택, 기여 방식 확인, 첫 작업 선택을 한 흐름으로 설명한다. [GitHub에서 기여할 곳 찾기](https://docs.github.com/ko/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)를 보충 자료로 둔다. |
+| 4.2 문제 재현과 변경 검증 | 세 글을 합치기 | 문제 재현과 이해, 필요한 변경, 테스트, 제출 전 diff 검토를 한 흐름으로 설명한다. |
+| 4.3 PR 작성과 리뷰 대응 | 두 글을 합치기 | PR에 들어갈 정보와 “검토 가능” 기준만 쓰고 기능 설명은 [GitHub PR 문서](https://docs.github.com/ko/pull-requests/get-started/about-pull-requests)와 [리뷰 문서](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews)로 보낸다. |
 | 5.1 PR 결과 | 직접 | 병합 여부와 이 가이드의 목표 달성을 분리해 설명한다. |
 | 5.2 경험 정리 | 직접 | 모임에서 공유할 짧은 회고 양식을 둔다. |
 | 6.1 후원과 인증 | 직접 | 후원처 선정 기준과 인증 방법을 다루고, 일반적인 OSS 규칙이 아니라 모임 참가 규칙임을 명시한다. |
