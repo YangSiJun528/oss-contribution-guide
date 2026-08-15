@@ -13,7 +13,7 @@
 2. 개발 공부
 3. 하다보면 좋은 일이 생기지 않을까?
 
-## OSS에 기여하며 얻은 것
+## OSS 기여를 통해 얻은 것
 
 OSS 활동 후기를 찾아보면 눈에 띄는 성과를 낸 사람들의 이야기가 많습니다. 하지만 대체로 적극적으로 참여해 온 사람들의 이야기인 경우가 많습니다.
 
@@ -58,7 +58,7 @@ OSS 활동 후기를 찾아보면 눈에 띄는 성과를 낸 사람들의 이�
   <figcaption><a href="https://www.linkedin.com/posts/homin-lee-71311838_designing-incentives-in-decentralized-systems-activity-7473485116229726208-pADD">LinkedIn 게시물</a>에서도 다뤄지는 스팸 메일입니다.</figcaption>
 </figure>
 
-## 이 글을 쓴 목적
+## 집필 목적
 
 주변에서 OSS 이야기를 하다 보면 관심은 있지만 어디서부터 시작해야 할지 모르겠다는 사람을 자주 만납니다.
 

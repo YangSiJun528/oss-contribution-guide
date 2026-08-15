@@ -37,20 +37,20 @@
 | 범위 | 처리 | 넘길 자료 |
 |---|---|---|
 | 1.1 이 가이드의 대상과 목표 | 직접 | 없음. 추천 독자, 필요한 사전 지식, 코드 기여의 범위와 `검토 가능한 PR 제출`은 이 가이드의 기준이다. |
-| 1.2 기여를 시작하기 전에 | 직접 | 일반적인 동기와 장점은 [Open Source Guides](https://opensource.guide/ko/how-to-contribute/)로 보낼 수 있다. |
-| 1.3 저자와 이 글의 관점 | 직접 | 저자의 [GitHub 프로필](https://github.com/YangSiJun528)과 공개 가능한 기여 사례만 사용한다. |
+| 1.2 기여 시작 전 확인 사항 | 직접 | 일반적인 동기와 장점은 [Open Source Guides](https://opensource.guide/ko/how-to-contribute/)로 보낼 수 있다. |
+| 1.3 저자의 글 | 직접 | 저자의 [GitHub 프로필](https://github.com/YangSiJun528)과 공개 가능한 기여 사례만 사용한다. |
 | 1.4 이 가이드를 읽는 방법 | 합치기 | 1장 첫 페이지나 책 첫 페이지에 넣는다. |
 | 2.1 OSS와 FOSS | 요약+링크 | [OSI의 Open Source Definition](https://opensource.org/osd), [FSF의 자유 소프트웨어 정의](https://www.gnu.org/philosophy/free-sw.ko.html) |
 | 2.2 라이선스 | 요약+링크 | [Choose a License의 라이선스 없음 안내](https://choosealicense.com/ko/no-permission/), [DCO 1.1](https://developercertificate.org/) |
-| 2.3 사람과 조직 | 요약+링크 | 공통 역할만 소개하고 실제 권한은 각 프로젝트의 거버넌스 문서를 확인하게 한다. |
-| 2.4 프로젝트 문화 | 직접 | GitHub 외의 방식과 최근 Issue·PR, 공식 채널에서 실제 규칙을 확인하는 방법을 다룬다. |
-| 3.1 공동체에 참여한다는 것 | 직접 | 변경 제출 외에도 사용, 문제 제기, 운영과 후원이 참여가 될 수 있음을 설명한다. |
+| 2.3 프로젝트를 구성하는 사람과 조직 | 요약+링크 | 공통 역할만 소개하고 실제 권한은 각 프로젝트의 거버넌스 문서를 확인하게 한다. |
+| 2.4 프로젝트의 방식과 문화 | 직접 | GitHub 외의 방식과 최근 Issue·PR, 공식 채널에서 실제 규칙을 확인하는 방법을 다룬다. |
+| 3.1 프로젝트 공동체 참여의 의미 | 직접 | 변경 제출 외에도 사용, 문제 제기, 운영과 후원이 참여가 될 수 있음을 설명한다. |
 | 3.2 공동체를 고려하지 않은 기여 | 직접 | 검토·유지 비용과 AI가 같은 문제를 쉽게 만든 사례를 함께 설명한다. |
-| 3.3 프로젝트마다 다른 AI 사용 규칙 | 사례 중심 | CPython·Linux·Fedify, Rust, OpenJDK·QEMU를 AI 생성 기여의 허용 범위에 따른 유형별 사례로 소개하고 Zig는 더 강경한 사례로 다룬다. |
-| 3.4 기여할 때 가져갈 태도 | 직접 | 프로젝트 존중, 검증, 대화와 떠날 수 있다는 점을 정리한다. |
+| 3.3 프로젝트별 AI 사용 규칙 | 사례 중심 | CPython·Linux·Fedify, Rust, OpenJDK·QEMU를 AI 생성 기여의 허용 범위에 따른 유형별 사례로 소개하고 Zig는 더 강경한 사례로 다룬다. |
+| 3.4 기여자의 태도 | 직접 | 프로젝트 존중, 검증, 대화와 떠날 수 있다는 점을 정리한다. |
 | 4.1 프로젝트와 첫 작업 선택 | 세 글을 합치기 | 프로젝트 선택, 기여 방식 확인, 첫 작업 선택을 한 흐름으로 설명한다. [GitHub에서 기여할 곳 찾기](https://docs.github.com/ko/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github)를 보충 자료로 둔다. |
 | 4.2 문제 재현과 변경 검증 | 세 글을 합치기 | 문제 재현과 이해, 필요한 변경, 테스트, 제출 전 diff 검토를 한 흐름으로 설명한다. |
-| 4.3 PR 작성과 리뷰 대응 | 두 글을 합치기 | PR에 들어갈 정보와 “검토 가능” 기준만 쓰고 기능 설명은 [GitHub PR 문서](https://docs.github.com/ko/pull-requests/get-started/about-pull-requests)와 [리뷰 문서](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews)로 보낸다. |
+| 4.3 PR 작성과 리뷰 대응 | 두 글을 합치기 | PR에 들어갈 정보와 “검토 가능” 기준만 쓰고 좋은 PR의 상세 작성법은 [Google Engineering Practices](https://google.github.io/eng-practices/)와 [GitHub의 리뷰하기 쉬운 변경 작성법](https://docs.github.com/en/pull-requests/concepts/helping-others-review-your-changes)으로 보낸다. |
 | 5.1 PR 결과 | 직접 | 병합 여부와 이 가이드의 목표 달성을 분리해 설명한다. |
 | 5.2 경험 정리 | 직접 | 모임에서 공유할 짧은 회고 양식을 둔다. |
 | 6.1 후원과 인증 | 직접 | 후원처 선정 기준과 인증 방법을 다루고, 일반적인 OSS 규칙이 아니라 모임 참가 규칙임을 명시한다. |
@@ -74,6 +74,8 @@ AI 관련 넓은 사례 메모는 공개 목차에서 제외하고 `notes/oss-ai
 - [GitHub에서 OSS에 기여할 방법 찾기](https://docs.github.com/ko/get-started/exploring-projects-on-github/finding-ways-to-contribute-to-open-source-on-github): 관리 중인 프로젝트와 첫 작업을 찾는 최신 GitHub 기능을 확인할 때 사용한다.
 - [Pull Request 소개](https://docs.github.com/ko/pull-requests/get-started/about-pull-requests): PR, Draft PR, fork 기반 흐름의 기능 설명을 넘긴다.
 - [Pull Request 리뷰 소개](https://docs.github.com/ko/pull-requests/collaborating-with-pull-requests/reviewing-changes-in-pull-requests/about-pull-request-reviews): 승인, 변경 요청, 댓글 등 리뷰 기능을 넘긴다.
+- [Google Engineering Practices](https://google.github.io/eng-practices/): 작은 변경과 명확한 설명, 리뷰 대응 등 변경 작성자의 코드 리뷰 원칙을 설명한다.
+- [GitHub의 리뷰하기 쉬운 변경 작성법](https://docs.github.com/en/pull-requests/concepts/helping-others-review-your-changes): 작고 집중된 PR, 맥락 제공, 자체 검토 등 리뷰를 돕는 작성법을 설명한다.
 - [오픈소스 입문을 위한 아주 구체적인 가이드](https://parksb.github.io/article/13.html): 한국어 실습 흐름을 보여 주는 보충 자료다. 2018년 글이라 브랜치 이름과 일부 Git 명령은 그대로 따라 하지 않는다.
 
 ### AI 정책과 사례
