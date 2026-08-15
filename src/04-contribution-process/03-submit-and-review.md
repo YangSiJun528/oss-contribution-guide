@@ -33,7 +33,7 @@ Commit 메시지와 단위도 변경 의도를 드러내도록 정리하고, 공
 
 리뷰는 제출한 변경을 함께 판단하는 과정입니다. 모든 요청에 무조건 동의할 필요는 없지만, 자신의 판단을 코드와 테스트, 프로젝트의 목표에 근거해 설명해야 합니다.
 
-PR의 병합·거절·무응답과 제출 이후의 소통은 [PR 제출 이후](../05-after-first-contribution/01-after-submission.md)에서 다룹니다.
+PR의 병합·거절·무응답과 제출 이후의 소통은 [PR 제출 이후](04-after-submission.md)에서 다룹니다.
 
 [google-engineering-practices]: https://google.github.io/eng-practices/
 [github-helping-others-review]: https://docs.github.com/en/pull-requests/concepts/helping-others-review-your-changes

@@ -1,8 +1,22 @@
 > 아직 작성 중입니다.
 
-# 프로젝트를 구성하는 사람과 조직
+# 프로젝트의 구성과 운영 방식
 
-## 역할명과 실제 권한
+OSS 프로젝트에 참여하려면 일반적인 역할명만 아는 것으로는 부족합니다. 실제 권한, 참여 방법, 운영 주체, 의사결정 방식과 공식 협업 경로를 함께 확인해야 의견을 어디에 제안하고 누구와 논의할지 판단할 수 있습니다.
+
+## 운영 구조
+
+### 다양한 운영 주체
+
+프로젝트는 개인이나 소규모 팀이 관리할 수도 있고, 기업이 개발 인력과 비용을 지원할 수도 있으며, Apache Software Foundation이나 Linux Foundation/CNCF 같은 비영리 생태계 안에서 운영될 수도 있습니다.
+
+코드 저장소의 소유자, 저작권자, 비용을 대는 조직, 기술적 결정을 내리는 사람이 서로 다를 수도 있습니다.
+
+확실하게 파악하기 위해서는 거버넌스 문서와 `MAINTAINERS`, `OWNERS`, 최근 릴리스와 의사결정 기록을 확인해야 합니다.
+
+이러한 정보가 어떤 파일에 담기는지는 이 절의 마지막 글인 [저장소에서 확인할 파일](04-repository-files.md)에서 정리합니다.
+
+### 역할명과 실제 권한
 
 OSS 프로젝트에는 다양한 역할의 사람들이 프로젝트를 구성합니다.
 
@@ -23,7 +37,7 @@ OSS 프로젝트에는 다양한 역할의 사람들이 프로젝트를 구성�
 
 구체적인 역할의 이름과 권한은 프로젝트마다 다릅니다. [Kubernetes][kubernetes-roles-and-responsibilities]는 기여자·멤버·리뷰어·승인자를, [Apache Software Foundation][apache-how-it-works]은 커미터와 PMC를 구분합니다.
 
-## 다양한 의사결정 방식
+### 다양한 의사결정 방식
 
 대표적인 방식은 다음과 같습니다. 실제 프로젝트는 여러 방식을 함께 사용할 수 있습니다.
 
@@ -36,19 +50,54 @@ OSS 프로젝트에는 다양한 역할의 사람들이 프로젝트를 구성�
 
 어느 방식이 항상 더 낫다고 할 수는 없습니다. 기여자에게 중요한 것은 의견을 어디에 제안하고 누가 최종 결정을 내리는지 알 수 있는가입니다.
 
-## 다양한 운영 주체
+## 참여 경로
 
-프로젝트는 개인이나 소규모 팀이 관리할 수도 있고, 기업이 개발 인력과 비용을 지원할 수도 있으며, Apache Software Foundation이나 Linux Foundation/CNCF 같은 비영리 생태계 안에서 운영될 수도 있습니다.
+### 프로젝트 참여 방법
 
-코드 저장소의 소유자, 저작권자, 비용을 대는 조직, 기술적 결정을 내리는 사람이 서로 다를 수도 있습니다.
+흔히 OSS 기여를 코드나 문서를 작성해 제출하는 일로 생각합니다. 그러나 OSS 프로젝트는 코드 저장소뿐 아니라 프로젝트를 만들고 사용하고 이야기하는 사람들로 이루어집니다.
 
-확실하게 파악하기 위해서는 거버넌스 문서와 `MAINTAINERS`, `OWNERS`, 최근 릴리스와 의사결정 기록을 확인해야 합니다.
+공동체의 범위는 메인테이너와 기여자에서 끝나지 않습니다. 사용하고, 문제를 알리고, 다른 사용자를 돕고, 프로젝트를 소개하는 사람까지 프로젝트 주변에 넓게 연결됩니다.
+
+- **사용하기**: 프로젝트를 실제로 사용하고 주변에 알립니다. 사용하는 것만으로 항상 기여라고 부르지는 않지만, 사용자는 공동체를 구성하는 중요한 역할입니다.
+- **문제와 의견 나누기**: 버그를 보고하고, 기능을 제안하고, 질문하거나 다른 사용자를 돕습니다.
+- **결과물 만들기**: 코드, 문서, 테스트, 번역과 디자인을 제안합니다. 변경을 제출하는 것은 대표적인 참여 방법이지 유일한 방법은 아닙니다.
+- **프로젝트 운영 돕기**: Issue를 정리하고, 변경을 리뷰하고, 행사를 운영하거나 프로젝트를 후원합니다.
+
+이 과정에서 참여자는 프로젝트가 무엇을 중요하게 여기고 어떻게 변화할지에 영향을 줍니다. 정식 멤버가 아니더라도 Issue와 토론에 참여하는 순간부터 프로젝트의 사람들과 관계를 맺고 공동체의 방식 안에서 행동하게 됩니다.
+
+### 협업 서비스와 기록 경로
+
+프로젝트는 코드, 작업, 기여와 소통을 서로 다른 방식으로 관리합니다. 한 서비스만 사용하기도 하고 여러 서비스를 조합하기도 합니다.
+
+| 구분 | 자주 쓰는 방식과 서비스 |
+| --- | --- |
+| 코드 관리 | GitHub, GitLab, Codeberg, 자체 Git 서버 |
+| 기여 제출·검토 | GitHub Pull Request, GitLab Merge Request, Gerrit Change, 메일링 리스트 패치 |
+| 작업 관리 | GitHub·GitLab Issue, Jira, Bugzilla, 자체 이슈 추적기 |
+| 실시간 소통 | Discord, Slack, Matrix, IRC |
+| 논의·결정 기록 | 메일링 리스트, 포럼, GitHub Discussions, Issue, RFC |
+
+예를 들어 코드는 GitHub에서 관리하고, 작업은 Jira에서 추적하며, 질문은 Discord에서 받고, 최종 결정은 Issue나 메일링 리스트에 기록할 수 있습니다.
+
+대표적인 차이는 다음 사례에서 볼 수 있습니다.
+
+- [Fastify][fastify-project]는 코드, Issue, Pull Request와 리뷰를 GitHub에서 관리하고 Discord를 실시간 대화에 사용합니다. 요즘 많은 최신 GitHub 기반 프로젝트에서 볼 수 있는 형태입니다.
+- [Apache Polaris][apache-polaris-community]는 개발은 GitHub, 실시간 대화는 Slack, 개발 논의는 `dev@` 메일링 리스트에서 진행합니다. [ASF의 원칙][apache-mailing-list-culture]에 따라 채팅에서 시작한 중요한 기술 논의와 결정도 메일링 리스트에 남깁니다.
+- [Linux 커널][linux-kernel-submitting-patches]은 `git`으로 패치를 만들지만, 관련 메인테이너와 메일링 리스트에 패치를 본문으로 보내고 이메일에서 리뷰합니다.
+
+이 가이드의 실습 과정은 처음 접하기 쉽고 많은 프로젝트가 사용하는 GitHub의 Issue와 Pull Request만을 다룹니다.
 
 ## 참고 자료
 
-- [오픈소스 프로젝트의 해부학][open-source-guide-project-anatomy]: 일반적인 역할과 프로젝트 구조
-- 『오픈 소스로 미래를 연마하라』(VM 브라수어), 3장: 프로젝트와 커뮤니티의 일반적인 역할을 양파 모형으로 설명
+- [오픈소스 프로젝트의 해부학][open-source-guide-project-anatomy]: 일반적인 역할, 프로젝트 구조와 참여 방법
+- [오픈소스에 기여하는 방법][open-source-guide]: 일반적인 프로젝트 구조와 의사소통 방식
+- [Producing Open Source Software][producing-open-source-software]: 프로젝트 운영과 커뮤니케이션을 깊게 다루는 무료 영문 도서
+- 『오픈 소스로 미래를 연마하라』(VM 브라수어), 3장과 6장: 프로젝트 공동체의 역할과 코드 이외의 기여
 
 {{#include ../_includes/references.md}}
 
+[apache-mailing-list-culture]: https://community.apache.org/contributors/mailing-lists.html
+[apache-polaris-community]: https://polaris.apache.org/community/
+[fastify-project]: https://github.com/fastify/fastify
 [kubernetes-roles-and-responsibilities]: https://kubernetes.io/docs/contribute/participate/roles-and-responsibilities/
+[linux-kernel-submitting-patches]: https://www.kernel.org/doc/html/latest/process/submitting-patches.html

@@ -25,7 +25,7 @@
 
 ## 실제 기여 가능성 확인
 
-프로젝트의 공식 기여 방법이 이 가이드보다 우선합니다. 사용하는 서비스와 문서 위치는 [프로젝트의 방식과 문화](../02-oss-overview/04-project-culture.md)와 [저장소에서 확인할 파일](../06-appendix/05-repository-files.md)을 참고합니다. AI를 사용한다면 [프로젝트별 AI 사용 규칙](../03-contributor-attitude/03-project-ai-policies.md)도 확인합니다.
+프로젝트의 공식 기여 방법이 이 가이드보다 우선합니다. 사용하는 서비스와 문서 위치는 [프로젝트의 구성과 운영 방식](../02-oss-overview/03-people-and-organizations.md)과 [저장소에서 확인할 파일](../02-oss-overview/04-repository-files.md)을 참고합니다. AI를 사용한다면 [프로젝트별 AI 사용 규칙](../03-contributor-attitude/03-project-ai-policies.md)도 확인합니다.
 
 경험상 기여 문서가 오래되었거나 실제 운영과 맞지 않는 경우가 있었습니다. 따라서 문서와 함께 최근 Issue와 PR에서 다음 내용을 확인하기를 권합니다.
 
