@@ -18,7 +18,7 @@
 
 대표적인 차이는 다음 사례에서 볼 수 있습니다.
 
-- [Fastify][fastify-project]는 코드, Issue, Pull Request와 리뷰를 GitHub에서 관리하고 Discord를 실시간 대화에 사용합니다. 많은 GitHub 기반 프로젝트에서 볼 수 있는 형태입니다.
+- [Fastify][fastify-project]는 코드, Issue, Pull Request와 리뷰를 GitHub에서 관리하고 Discord를 실시간 대화에 사용합니다. 요즘 많은 최신 GitHub 기반 프로젝트에서 볼 수 있는 형태입니다.
 - [Apache Polaris][apache-polaris-community]는 개발은 GitHub, 실시간 대화는 Slack, 개발 논의는 `dev@` 메일링 리스트에서 진행합니다. [ASF의 원칙][apache-mailing-list-culture]에 따라 채팅에서 시작한 중요한 기술 논의와 결정도 메일링 리스트에 남깁니다.
 - [Linux 커널][linux-kernel-submitting-patches]은 `git`으로 패치를 만들지만, 관련 메인테이너와 메일링 리스트에 패치를 본문으로 보내고 이메일에서 리뷰합니다.
 
@@ -32,6 +32,9 @@
 
 주요 파일의 역할은 부록의 [저장소에서 확인할 파일](../06-appendix/05-repository-files.md)에 정리했습니다.
 
+TODO: 문서 목록은 필수로 어느정도 알아야 할 듯?
+
+그리고 각 챕터마다 사용자한테 어떤 행동을 해보라고 해서 익숙하게 만드는 과제? 느낌으로 던져줘도 좋을 듯?
 
 ## 참고 자료
 
