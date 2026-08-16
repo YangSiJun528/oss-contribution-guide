@@ -4,7 +4,7 @@ TODO: 기여하는 법에 관련된 게 아니라 오픈소스 전반에 대한 
 
 # OSS 개요
 
-이 절에서는 OSS 생태계를 이해하는 데 필요한 기본 배경을 간단히 설명합니다. OSS와 FOSS의 의미, 라이선스, 프로젝트의 구성과 운영 방식, 이를 확인할 수 있는 저장소의 주요 파일을 다룹니다.
+이 절에서는 OSS 생태계를 이해하는 데 필요한 기본 배경을 간단히 설명합니다. OSS와 FOSS의 의미, 라이선스, 프로젝트의 구성과 운영 방식, 이를 확인할 수 있는 공식 문서와 활동 기록을 다룹니다.
 
 <figure>
   <img src="../assets/oss-overview/oss-project-dimensions.svg" width="960" loading="lazy">

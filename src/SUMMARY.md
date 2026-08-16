@@ -10,7 +10,7 @@
   - [OSS와 FOSS](02-oss-overview/01-oss-and-foss.md)
   - [라이선스](02-oss-overview/02-licenses.md)
   - [프로젝트의 구성과 운영 방식](02-oss-overview/03-people-and-organizations.md)
-  - [저장소에서 확인할 파일](02-oss-overview/04-repository-files.md)
+  - [프로젝트 정보를 확인하는 위치](02-oss-overview/04-repository-files.md)
 - [프로젝트 공동체 참여](03-contributor-attitude/00-index.md)
   - [공동체를 고려하지 않은 기여](03-contributor-attitude/02-ignoring-the-community.md)
   - [프로젝트별 AI 사용 규칙](03-contributor-attitude/03-project-ai-policies.md)

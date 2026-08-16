@@ -4,7 +4,7 @@
 
 ## 라이선스의 역할
 
-코드는 작성되는 순간 저작권의 보호를 받습니다. OSS 라이선스는 다른 사람이 코드를 사용·수정·배포할 수 있는 조건을 정합니다. 공개 저장소에 `LICENSE`가 없다면 코드를 볼 수 있어도 사용할 권리가 생기지는 않습니다.
+코드는 작성되는 순간 저작권의 보호를 받습니다. OSS 라이선스는 저작권자가 다른 사람에게 코드를 사용·수정·배포할 권리를 어떤 조건으로 허용하는지 정합니다. 소스가 공개되어 있다는 사실만으로 이러한 권리가 생기지는 않습니다.
 
 <figure>
   <img src="../assets/oss-overview/license-landscape.svg" width="960" loading="lazy">
@@ -34,7 +34,7 @@ SPDX(Software Package Data Exchange)는 라이선스 정보를 표준 형식으�
 - **파일·모듈별 적용**: 코드, 문서, 이미지와 외부 구성요소가 서로 다른 라이선스를 따릅니다.
 - **상용·OSS 이중 제공**: [Qt][qt-licensing]처럼 상용 라이선스와 LGPL/GPL 선택지를 함께 제공합니다.
 
-`LICENSE`, `COPYRIGHT`, `NOTICE`, 파일의 SPDX 표시, 하위 디렉터리, 의존성과 SBOM을 함께 확인합니다. [Qt의 외부 구성요소 목록][qt-third-party-licenses]처럼 별도 목록이 있을 수도 있습니다.
+따라서 프로젝트 전체에 표시된 대표 라이선스 하나가 모든 파일과 구성요소에 그대로 적용된다고 단정할 수 없습니다. 어떤 구성요소를 어떤 방식으로 사용하고 배포하는지에 따라 확인해야 할 조건도 달라집니다.
 
 ## 자체 라이선스와 소스 공개형 라이선스
 
@@ -48,19 +48,21 @@ SPDX(Software Package Data Exchange)는 라이선스 정보를 표준 형식으�
 
 ## 기여 코드의 라이선스
 
-- `CONTRIBUTING`과 라이선스 정책을 확인합니다. 기여한 코드는 일반적으로 프로젝트의 라이선스로 배포됩니다.
-- 제출할 권리가 없는 회사 코드나 다른 프로젝트의 코드를 포함하지 않습니다.
+기여한 코드는 일반적으로 프로젝트가 정한 라이선스와 기여 조건에 따라 배포됩니다.
+기여자는 자신이 작성했거나 제출할 권한이 있는 코드만 제공해야 하며, 제출할 권리가 없는 회사 코드나 다른 프로젝트의 코드를 포함해서는 안 됩니다.
 
 별도 약정이 없다면 기여자는 자신이 작성한 코드의 저작권을 유지합니다.
 
 ## CLA와 DCO
 
-기여를 위해서 특정 동의가 필요한 경우가 있습니다. 대표적으로 다음이 있습니다.
+기여를 위해서 특정 동의가 필요한 경우가 있습니다. 대표적으로 CLA와 DCO가 있습니다.
 
-- CLA(Contributor License Agreement)는 추가 권한이나 저작권 양도를 요구할 수 있습니다.
-- DCO(Developer Certificate of Origin)는 코드를 제출할 권리가 있음을 확인하며 저작권을 양도하지는 않습니다.
+- CLA(Contributor License Agreement)는 프로젝트가 기여 코드를 이용하는 데 필요한 추가 권한을 받거나 저작권 양도를 요구하는 계약입니다. 구체적인 조건은 프로젝트마다 다릅니다.
+- DCO(Developer Certificate of Origin)는 기여자가 코드를 제출할 권리가 있음을 확인하는 인증 방식입니다. 일반적으로 커밋의 sign-off로 확인하며 저작권을 양도하지는 않습니다.
 
 ## 재직자의 기여 권리
+
+TODO: 구체적으로 언급할 필요는 없어보임. 그냥 언급만 ㄱㄱ
 
 어떤 프로젝트는 기여 과정에서 저작권 양도나 추가 권한에 대한 동의를 요구합니다.
 
@@ -87,6 +89,5 @@ SPDX(Software Package Data Exchange)는 라이선스 정보를 표준 형식으�
 [mozilla-mpl-faq]: https://www.mozilla.org/en-US/MPL/2.0/FAQ/
 [osi-sspl-not-open-source]: https://opensource.org/blog/the-sspl-is-not-an-open-source-license
 [qt-licensing]: https://doc.qt.io/qt-6/licensing.html
-[qt-third-party-licenses]: https://doc.qt.io/qt-6/licenses-used-in-qt.html
 [rust-license]: https://github.com/rust-lang/rust#license
 [spdx-license-expressions]: https://spdx.github.io/spdx-spec/v2.3/SPDX-license-expressions/
