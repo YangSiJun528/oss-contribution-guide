@@ -23,7 +23,7 @@
 | 강한 카피레프트 | GPL-2.0/3.0 | O | O | O | O | △ | △ |
 | 네트워크 카피레프트 | AGPL-3.0 | O | O | O | O | △ | △ |
 
-여기에서는 구체적인 내용을 설명하지 않습니다. 실제 사용/배포 전에는 라이선스 원문과 프로젝트의 안내를 확인해야 합니다.
+실제 사용/배포 전에는 라이선스 원문과 프로젝트의 안내를 확인해야 합니다.
 
 참고: https://naver.github.io/OpenSourceGuide/book/UsingOss/the-legal-side-of-opensource.html
 참고: https://choosealicense.com/ko/

@@ -33,7 +33,9 @@
   <figcaption>맨 아래 메시지는 제가 추가한 기능에 관한 이야기입니다. 작업 내용은 <a href="https://github.com/spring-io/initializr/pull/1576">Spring Initializr PR #1576</a>에서 볼 수 있습니다. 참여자의 이름과 프로필 사진은 가렸습니다.</figcaption>
 </figure>
 
-여러 프로젝트에 기여하다 보니 기여 이력을 보고 연락이 오기도 했습니다. 제 경우 아직 실제 기회로 이어진 적은 없습니다.
+TODO: 학습에도 유의미한 도움이 되었습니다.
+
+여러 프로젝트에 기여하다 보니 기여 이력을 보고 연락이 오기도 했습니다. 저의 경우 아직 큰 기회로 이어진 적은 없습니다.
 
 <figure>
   <img src="../assets/author-note/oss-credit-promotion-email-redacted.png" width="800" loading="lazy">
